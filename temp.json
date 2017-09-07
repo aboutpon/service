@@ -1,0 +1,4178 @@
+
+
+[
+  {
+    "pla_code": 10,
+    "pla_name": "กรุงเทพมหานคร",
+    "dis": [
+      {
+        "pla_code": 1001,
+        "pla_name": "พระนคร"
+      },
+      {
+        "pla_code": 1002,
+        "pla_name": "ดุสิต"
+      },
+      {
+        "pla_code": 1003,
+        "pla_name": "หนองจอก"
+      },
+      {
+        "pla_code": 1004,
+        "pla_name": "บางรัก"
+      },
+      {
+        "pla_code": 1005,
+        "pla_name": "บางเขน"
+      },
+      {
+        "pla_code": 1006,
+        "pla_name": "บางกะปิ"
+      },
+      {
+        "pla_code": 1007,
+        "pla_name": "ปทุมวัน"
+      },
+      {
+        "pla_code": 1008,
+        "pla_name": "ป้อมปราบศัตรูพ่าย"
+      },
+      {
+        "pla_code": 1009,
+        "pla_name": "พระโขนง"
+      },
+      {
+        "pla_code": 1010,
+        "pla_name": "มีนบุรี"
+      },
+      {
+        "pla_code": 1011,
+        "pla_name": "ลาดกระบัง"
+      },
+      {
+        "pla_code": 1012,
+        "pla_name": "ยานนาวา"
+      },
+      {
+        "pla_code": 1013,
+        "pla_name": "สัมพันธวงศ์"
+      },
+      {
+        "pla_code": 1014,
+        "pla_name": "พญาไท"
+      },
+      {
+        "pla_code": 1015,
+        "pla_name": "ธนบุรี"
+      },
+      {
+        "pla_code": 1016,
+        "pla_name": "บางกอกใหญ่"
+      },
+      {
+        "pla_code": 1017,
+        "pla_name": "ห้วยขวาง"
+      },
+      {
+        "pla_code": 1018,
+        "pla_name": "คลองสาน"
+      },
+      {
+        "pla_code": 1019,
+        "pla_name": "ตลิ่งชัน"
+      },
+      {
+        "pla_code": 1020,
+        "pla_name": "บางกอกน้อย"
+      },
+      {
+        "pla_code": 1021,
+        "pla_name": "บางขุนเทียน"
+      },
+      {
+        "pla_code": 1022,
+        "pla_name": "ภาษีเจริญ"
+      },
+      {
+        "pla_code": 1023,
+        "pla_name": "หนองแขม"
+      },
+      {
+        "pla_code": 1024,
+        "pla_name": "ราษฎร์บูรณะ"
+      },
+      {
+        "pla_code": 1025,
+        "pla_name": "บางพลัด"
+      },
+      {
+        "pla_code": 1026,
+        "pla_name": "ดินแดง"
+      },
+      {
+        "pla_code": 1027,
+        "pla_name": "บึงกุ่ม"
+      },
+      {
+        "pla_code": 1028,
+        "pla_name": "สาทร"
+      },
+      {
+        "pla_code": 1029,
+        "pla_name": "บางซื่อ"
+      },
+      {
+        "pla_code": 1030,
+        "pla_name": "จตุจักร"
+      },
+      {
+        "pla_code": 1031,
+        "pla_name": "บางคอแหลม"
+      },
+      {
+        "pla_code": 1032,
+        "pla_name": "ประเวศ"
+      },
+      {
+        "pla_code": 1033,
+        "pla_name": "คลองเตย"
+      },
+      {
+        "pla_code": 1034,
+        "pla_name": "สวนหลวง"
+      },
+      {
+        "pla_code": 1035,
+        "pla_name": "จอมทอง"
+      },
+      {
+        "pla_code": 1036,
+        "pla_name": "ดอนเมือง"
+      },
+      {
+        "pla_code": 1037,
+        "pla_name": "ราชเทวี"
+      },
+      {
+        "pla_code": 1038,
+        "pla_name": "ลาดพร้าว"
+      },
+      {
+        "pla_code": 1039,
+        "pla_name": "วัฒนา"
+      },
+      {
+        "pla_code": 1040,
+        "pla_name": "บางแค"
+      },
+      {
+        "pla_code": 1041,
+        "pla_name": "หลักสี่"
+      },
+      {
+        "pla_code": 1042,
+        "pla_name": "สายไหม"
+      },
+      {
+        "pla_code": 1043,
+        "pla_name": "คันนายาว"
+      },
+      {
+        "pla_code": 1044,
+        "pla_name": "สะพานสูง"
+      },
+      {
+        "pla_code": 1045,
+        "pla_name": "วังทองหลาง"
+      },
+      {
+        "pla_code": 1046,
+        "pla_name": "คลองสามวา"
+      },
+      {
+        "pla_code": 1047,
+        "pla_name": "บางนา"
+      },
+      {
+        "pla_code": 1048,
+        "pla_name": "ทวีวัฒนา"
+      },
+      {
+        "pla_code": 1049,
+        "pla_name": "ทุ่งครุ"
+      },
+      {
+        "pla_code": 1050,
+        "pla_name": "บางบอน"
+      }
+    ]
+  },
+  {
+    "pla_code": 11,
+    "pla_name": "สมุทรปราการ",
+    "dis": [
+      {
+        "pla_code": 1101,
+        "pla_name": "เมืองสมุทรปราการ"
+      },
+      {
+        "pla_code": 1102,
+        "pla_name": "บางบ่อ"
+      },
+      {
+        "pla_code": 1103,
+        "pla_name": "บางพลี"
+      },
+      {
+        "pla_code": 1104,
+        "pla_name": "พระประแดง"
+      },
+      {
+        "pla_code": 1105,
+        "pla_name": "พระสมุทรเจดีย์"
+      },
+      {
+        "pla_code": 1106,
+        "pla_name": "บางเสาธง"
+      }
+    ]
+  },
+  {
+    "pla_code": 12,
+    "pla_name": "นนทบุรี",
+    "dis": [
+      {
+        "pla_code": 1201,
+        "pla_name": "เมืองนนทบุรี"
+      },
+      {
+        "pla_code": 1202,
+        "pla_name": "บางกรวย"
+      },
+      {
+        "pla_code": 1203,
+        "pla_name": "บางใหญ่"
+      },
+      {
+        "pla_code": 1204,
+        "pla_name": "บางบัวทอง"
+      },
+      {
+        "pla_code": 1205,
+        "pla_name": "ไทรน้อย"
+      },
+      {
+        "pla_code": 1206,
+        "pla_name": "ปากเกร็ด"
+      }
+    ]
+  },
+  {
+    "pla_code": 13,
+    "pla_name": "ปทุมธานี",
+    "dis": [
+      {
+        "pla_code": 1301,
+        "pla_name": "เมืองปทุมธานี"
+      },
+      {
+        "pla_code": 1302,
+        "pla_name": "คลองหลวง"
+      },
+      {
+        "pla_code": 1303,
+        "pla_name": "ธัญบุรี"
+      },
+      {
+        "pla_code": 1304,
+        "pla_name": "หนองเสือ"
+      },
+      {
+        "pla_code": 1305,
+        "pla_name": "ลาดหลุมแก้ว"
+      },
+      {
+        "pla_code": 1306,
+        "pla_name": "ลำลูกกา"
+      },
+      {
+        "pla_code": 1307,
+        "pla_name": "สามโคก"
+      }
+    ]
+  },
+  {
+    "pla_code": 14,
+    "pla_name": "พระนครศรีอยุธยา",
+    "dis": [
+      {
+        "pla_code": 1401,
+        "pla_name": "พระนครศรีอยุธยา"
+      },
+      {
+        "pla_code": 1402,
+        "pla_name": "ท่าเรือ"
+      },
+      {
+        "pla_code": 1403,
+        "pla_name": "นครหลวง"
+      },
+      {
+        "pla_code": 1404,
+        "pla_name": "บางไทร"
+      },
+      {
+        "pla_code": 1405,
+        "pla_name": "บางบาล"
+      },
+      {
+        "pla_code": 1406,
+        "pla_name": "บางปะอิน"
+      },
+      {
+        "pla_code": 1407,
+        "pla_name": "บางปะหัน"
+      },
+      {
+        "pla_code": 1408,
+        "pla_name": "ผักไห่"
+      },
+      {
+        "pla_code": 1409,
+        "pla_name": "ภาชี"
+      },
+      {
+        "pla_code": 1410,
+        "pla_name": "ลาดบัวหลวง"
+      },
+      {
+        "pla_code": 1411,
+        "pla_name": "วังน้อย"
+      },
+      {
+        "pla_code": 1412,
+        "pla_name": "เสนา"
+      },
+      {
+        "pla_code": 1413,
+        "pla_name": "บางซ้าย"
+      },
+      {
+        "pla_code": 1414,
+        "pla_name": "อุทัย"
+      },
+      {
+        "pla_code": 1415,
+        "pla_name": "มหาราช"
+      },
+      {
+        "pla_code": 1416,
+        "pla_name": "บ้านแพรก"
+      }
+    ]
+  },
+  {
+    "pla_code": 15,
+    "pla_name": "อ่างทอง",
+    "dis": [
+      {
+        "pla_code": 1501,
+        "pla_name": "เมืองอ่างทอง"
+      },
+      {
+        "pla_code": 1502,
+        "pla_name": "ไชโย"
+      },
+      {
+        "pla_code": 1503,
+        "pla_name": "ป่าโมก"
+      },
+      {
+        "pla_code": 1504,
+        "pla_name": "โพธิ์ทอง"
+      },
+      {
+        "pla_code": 1505,
+        "pla_name": "แสวงหา"
+      },
+      {
+        "pla_code": 1506,
+        "pla_name": "วิเศษชัยชาญ"
+      },
+      {
+        "pla_code": 1507,
+        "pla_name": "สามโก้"
+      }
+    ]
+  },
+  {
+    "pla_code": 16,
+    "pla_name": "ลพบุรี",
+    "dis": [
+      {
+        "pla_code": 1601,
+        "pla_name": "เมืองลพบุรี"
+      },
+      {
+        "pla_code": 1602,
+        "pla_name": "พัฒนานิคม"
+      },
+      {
+        "pla_code": 1603,
+        "pla_name": "โคกสำโรง"
+      },
+      {
+        "pla_code": 1604,
+        "pla_name": "ชัยบาดาล"
+      },
+      {
+        "pla_code": 1605,
+        "pla_name": "ท่าวุ้ง"
+      },
+      {
+        "pla_code": 1606,
+        "pla_name": "บ้านหมี่"
+      },
+      {
+        "pla_code": 1607,
+        "pla_name": "ท่าหลวง"
+      },
+      {
+        "pla_code": 1608,
+        "pla_name": "สระโบสถ์"
+      },
+      {
+        "pla_code": 1609,
+        "pla_name": "โคกเจริญ"
+      },
+      {
+        "pla_code": 1610,
+        "pla_name": "ลำสนธิ"
+      },
+      {
+        "pla_code": 1611,
+        "pla_name": "หนองม่วง"
+      }
+    ]
+  },
+  {
+    "pla_code": 17,
+    "pla_name": "สิงห์บุรี",
+    "dis": [
+      {
+        "pla_code": 1701,
+        "pla_name": "เมืองสิงห์บุรี"
+      },
+      {
+        "pla_code": 1702,
+        "pla_name": "บางระจัน"
+      },
+      {
+        "pla_code": 1703,
+        "pla_name": "ค่ายบางระจัน"
+      },
+      {
+        "pla_code": 1704,
+        "pla_name": "พรหมบุรี"
+      },
+      {
+        "pla_code": 1705,
+        "pla_name": "ท่าช้าง"
+      },
+      {
+        "pla_code": 1706,
+        "pla_name": "อินทร์บุรี"
+      }
+    ]
+  },
+  {
+    "pla_code": 18,
+    "pla_name": "ชัยนาท",
+    "dis": [
+      {
+        "pla_code": 1801,
+        "pla_name": "เมืองชัยนาท"
+      },
+      {
+        "pla_code": 1802,
+        "pla_name": "มโนรมย์"
+      },
+      {
+        "pla_code": 1803,
+        "pla_name": "วัดสิงห์"
+      },
+      {
+        "pla_code": 1804,
+        "pla_name": "สรรพยา"
+      },
+      {
+        "pla_code": 1805,
+        "pla_name": "สรรคบุรี"
+      },
+      {
+        "pla_code": 1806,
+        "pla_name": "หันคา"
+      },
+      {
+        "pla_code": 1807,
+        "pla_name": "หนองมะโมง"
+      },
+      {
+        "pla_code": 1808,
+        "pla_name": "เนินขาม"
+      }
+    ]
+  },
+  {
+    "pla_code": 19,
+    "pla_name": "สระบุรี",
+    "dis": [
+      {
+        "pla_code": 1901,
+        "pla_name": "เมืองสระบุรี"
+      },
+      {
+        "pla_code": 1902,
+        "pla_name": "แก่งคอย"
+      },
+      {
+        "pla_code": 1903,
+        "pla_name": "หนองแค"
+      },
+      {
+        "pla_code": 1904,
+        "pla_name": "วิหารแดง"
+      },
+      {
+        "pla_code": 1905,
+        "pla_name": "หนองแซง"
+      },
+      {
+        "pla_code": 1906,
+        "pla_name": "บ้านหมอ"
+      },
+      {
+        "pla_code": 1907,
+        "pla_name": "ดอนพุด"
+      },
+      {
+        "pla_code": 1908,
+        "pla_name": "หนองโดน"
+      },
+      {
+        "pla_code": 1909,
+        "pla_name": "พระพุทธบาท"
+      },
+      {
+        "pla_code": 1910,
+        "pla_name": "เสาไห้"
+      },
+      {
+        "pla_code": 1911,
+        "pla_name": "มวกเหล็ก"
+      },
+      {
+        "pla_code": 1912,
+        "pla_name": "วังม่วง"
+      },
+      {
+        "pla_code": 1913,
+        "pla_name": "เฉลิมพระเกียรติ"
+      }
+    ]
+  },
+  {
+    "pla_code": 20,
+    "pla_name": "ชลบุรี",
+    "dis": [
+      {
+        "pla_code": 2001,
+        "pla_name": "เมืองชลบุรี"
+      },
+      {
+        "pla_code": 2002,
+        "pla_name": "บ้านบึง"
+      },
+      {
+        "pla_code": 2003,
+        "pla_name": "หนองใหญ่"
+      },
+      {
+        "pla_code": 2004,
+        "pla_name": "บางละมุง"
+      },
+      {
+        "pla_code": 2005,
+        "pla_name": "พานทอง"
+      },
+      {
+        "pla_code": 2006,
+        "pla_name": "พนัสนิคม"
+      },
+      {
+        "pla_code": 2007,
+        "pla_name": "ศรีราชา"
+      },
+      {
+        "pla_code": 2008,
+        "pla_name": "เกาะสีชัง"
+      },
+      {
+        "pla_code": 2009,
+        "pla_name": "สัตหีบ"
+      },
+      {
+        "pla_code": 2010,
+        "pla_name": "บ่อทอง"
+      },
+      {
+        "pla_code": 2011,
+        "pla_name": "เกาะจันทร์"
+      }
+    ]
+  },
+  {
+    "pla_code": 21,
+    "pla_name": "ระยอง",
+    "dis": [
+      {
+        "pla_code": 2101,
+        "pla_name": "เมืองระยอง"
+      },
+      {
+        "pla_code": 2102,
+        "pla_name": "บ้านฉาง"
+      },
+      {
+        "pla_code": 2103,
+        "pla_name": "แกลง"
+      },
+      {
+        "pla_code": 2104,
+        "pla_name": "วังจันทร์"
+      },
+      {
+        "pla_code": 2105,
+        "pla_name": "บ้านค่าย"
+      },
+      {
+        "pla_code": 2106,
+        "pla_name": "ปลวกแดง"
+      },
+      {
+        "pla_code": 2107,
+        "pla_name": "เขาชะเมา"
+      },
+      {
+        "pla_code": 2108,
+        "pla_name": "นิคมพัฒนา"
+      }
+    ]
+  },
+  {
+    "pla_code": 22,
+    "pla_name": "จันทบุรี",
+    "dis": [
+      {
+        "pla_code": 2201,
+        "pla_name": "เมืองจันทบุรี"
+      },
+      {
+        "pla_code": 2202,
+        "pla_name": "ขลุง"
+      },
+      {
+        "pla_code": 2203,
+        "pla_name": "ท่าใหม่"
+      },
+      {
+        "pla_code": 2204,
+        "pla_name": "โป่งน้ำร้อน"
+      },
+      {
+        "pla_code": 2205,
+        "pla_name": "มะขาม"
+      },
+      {
+        "pla_code": 2206,
+        "pla_name": "แหลมสิงห์"
+      },
+      {
+        "pla_code": 2207,
+        "pla_name": "สอยดาว"
+      },
+      {
+        "pla_code": 2208,
+        "pla_name": "แก่งหางแมว"
+      },
+      {
+        "pla_code": 2209,
+        "pla_name": "นายายอาม"
+      },
+      {
+        "pla_code": 2210,
+        "pla_name": "เขาคิชฌกูฏ"
+      }
+    ]
+  },
+  {
+    "pla_code": 23,
+    "pla_name": "ตราด",
+    "dis": [
+      {
+        "pla_code": 2301,
+        "pla_name": "เมืองตราด"
+      },
+      {
+        "pla_code": 2302,
+        "pla_name": "คลองใหญ่"
+      },
+      {
+        "pla_code": 2303,
+        "pla_name": "เขาสมิง"
+      },
+      {
+        "pla_code": 2304,
+        "pla_name": "บ่อไร่"
+      },
+      {
+        "pla_code": 2305,
+        "pla_name": "แหลมงอบ"
+      },
+      {
+        "pla_code": 2306,
+        "pla_name": "เกาะกูด"
+      },
+      {
+        "pla_code": 2307,
+        "pla_name": "เกาะช้าง"
+      }
+    ]
+  },
+  {
+    "pla_code": 24,
+    "pla_name": "ฉะเชิงเทรา",
+    "dis": [
+      {
+        "pla_code": 2401,
+        "pla_name": "เมืองฉะเชิงเทรา"
+      },
+      {
+        "pla_code": 2402,
+        "pla_name": "บางคล้า"
+      },
+      {
+        "pla_code": 2403,
+        "pla_name": "บางน้ำเปรี้ยว"
+      },
+      {
+        "pla_code": 2404,
+        "pla_name": "บางปะกง"
+      },
+      {
+        "pla_code": 2405,
+        "pla_name": "บ้านโพธิ์"
+      },
+      {
+        "pla_code": 2406,
+        "pla_name": "พนมสารคาม"
+      },
+      {
+        "pla_code": 2407,
+        "pla_name": "ราชสาส์น"
+      },
+      {
+        "pla_code": 2408,
+        "pla_name": "สนามชัยเขต"
+      },
+      {
+        "pla_code": 2409,
+        "pla_name": "แปลงยาว"
+      },
+      {
+        "pla_code": 2410,
+        "pla_name": "ท่าตะเกียบ"
+      },
+      {
+        "pla_code": 2411,
+        "pla_name": "คลองเขื่อน"
+      }
+    ]
+  },
+  {
+    "pla_code": 25,
+    "pla_name": "ปราจีนบุรี",
+    "dis": [
+      {
+        "pla_code": 2501,
+        "pla_name": "เมืองปราจีนบุรี"
+      },
+      {
+        "pla_code": 2502,
+        "pla_name": "กบินทร์บุรี"
+      },
+      {
+        "pla_code": 2503,
+        "pla_name": "นาดี"
+      },
+      {
+        "pla_code": 2506,
+        "pla_name": "บ้านสร้าง"
+      },
+      {
+        "pla_code": 2507,
+        "pla_name": "ประจันตคาม"
+      },
+      {
+        "pla_code": 2508,
+        "pla_name": "ศรีมหาโพธิ"
+      },
+      {
+        "pla_code": 2509,
+        "pla_name": "ศรีมโหสถ"
+      }
+    ]
+  },
+  {
+    "pla_code": 26,
+    "pla_name": "นครนายก",
+    "dis": [
+      {
+        "pla_code": 2601,
+        "pla_name": "เมืองนครนายก"
+      },
+      {
+        "pla_code": 2602,
+        "pla_name": "ปากพลี"
+      },
+      {
+        "pla_code": 2603,
+        "pla_name": "บ้านนา"
+      },
+      {
+        "pla_code": 2604,
+        "pla_name": "องครักษ์"
+      }
+    ]
+  },
+  {
+    "pla_code": 27,
+    "pla_name": "สระแก้ว",
+    "dis": [
+      {
+        "pla_code": 2701,
+        "pla_name": "เมืองสระแก้ว"
+      },
+      {
+        "pla_code": 2702,
+        "pla_name": "คลองหาด"
+      },
+      {
+        "pla_code": 2703,
+        "pla_name": "ตาพระยา"
+      },
+      {
+        "pla_code": 2704,
+        "pla_name": "วังน้ำเย็น"
+      },
+      {
+        "pla_code": 2705,
+        "pla_name": "วัฒนานคร"
+      },
+      {
+        "pla_code": 2706,
+        "pla_name": "อรัญประเทศ"
+      },
+      {
+        "pla_code": 2707,
+        "pla_name": "เขาฉกรรจ์"
+      },
+      {
+        "pla_code": 2708,
+        "pla_name": "โคกสูง"
+      },
+      {
+        "pla_code": 2709,
+        "pla_name": "วังสมบูรณ์"
+      }
+    ]
+  },
+  {
+    "pla_code": 30,
+    "pla_name": "นครราชสีมา",
+    "dis": [
+      {
+        "pla_code": 3001,
+        "pla_name": "เมืองนครราชสีมา"
+      },
+      {
+        "pla_code": 3002,
+        "pla_name": "ครบุรี"
+      },
+      {
+        "pla_code": 3003,
+        "pla_name": "เสิงสาง"
+      },
+      {
+        "pla_code": 3004,
+        "pla_name": "คง"
+      },
+      {
+        "pla_code": 3005,
+        "pla_name": "บ้านเหลื่อม"
+      },
+      {
+        "pla_code": 3006,
+        "pla_name": "จักราช"
+      },
+      {
+        "pla_code": 3007,
+        "pla_name": "โชคชัย"
+      },
+      {
+        "pla_code": 3008,
+        "pla_name": "ด่านขุนทด"
+      },
+      {
+        "pla_code": 3009,
+        "pla_name": "โนนไทย"
+      },
+      {
+        "pla_code": 3010,
+        "pla_name": "โนนสูง"
+      },
+      {
+        "pla_code": 3011,
+        "pla_name": "ขามสะแกแสง"
+      },
+      {
+        "pla_code": 3012,
+        "pla_name": "บัวใหญ่"
+      },
+      {
+        "pla_code": 3013,
+        "pla_name": "ประทาย"
+      },
+      {
+        "pla_code": 3014,
+        "pla_name": "ปักธงชัย"
+      },
+      {
+        "pla_code": 3015,
+        "pla_name": "พิมาย"
+      },
+      {
+        "pla_code": 3016,
+        "pla_name": "ห้วยแถลง"
+      },
+      {
+        "pla_code": 3017,
+        "pla_name": "ชุมพวง"
+      },
+      {
+        "pla_code": 3018,
+        "pla_name": "สูงเนิน"
+      },
+      {
+        "pla_code": 3019,
+        "pla_name": "ขามทะเลสอ"
+      },
+      {
+        "pla_code": 3020,
+        "pla_name": "สีคิ้ว"
+      },
+      {
+        "pla_code": 3021,
+        "pla_name": "ปากช่อง"
+      },
+      {
+        "pla_code": 3022,
+        "pla_name": "หนองบุญมาก"
+      },
+      {
+        "pla_code": 3023,
+        "pla_name": "แก้งสนามนาง"
+      },
+      {
+        "pla_code": 3024,
+        "pla_name": "โนนแดง"
+      },
+      {
+        "pla_code": 3025,
+        "pla_name": "วังน้ำเขียว"
+      },
+      {
+        "pla_code": 3026,
+        "pla_name": "เทพารักษ์"
+      },
+      {
+        "pla_code": 3027,
+        "pla_name": "เมืองยาง"
+      },
+      {
+        "pla_code": 3028,
+        "pla_name": "พระทองคำ"
+      },
+      {
+        "pla_code": 3029,
+        "pla_name": "ลำทะเมนชัย"
+      },
+      {
+        "pla_code": 3030,
+        "pla_name": "บัวลาย"
+      },
+      {
+        "pla_code": 3031,
+        "pla_name": "สีดา"
+      },
+      {
+        "pla_code": 3032,
+        "pla_name": "เฉลิมพระเกียรติ"
+      }
+    ]
+  },
+  {
+    "pla_code": 31,
+    "pla_name": "บุรีรัมย์",
+    "dis": [
+      {
+        "pla_code": 3101,
+        "pla_name": "เมืองบุรีรัมย์"
+      },
+      {
+        "pla_code": 3102,
+        "pla_name": "คูเมือง"
+      },
+      {
+        "pla_code": 3103,
+        "pla_name": "กระสัง"
+      },
+      {
+        "pla_code": 3104,
+        "pla_name": "นางรอง"
+      },
+      {
+        "pla_code": 3105,
+        "pla_name": "หนองกี่"
+      },
+      {
+        "pla_code": 3106,
+        "pla_name": "ละหานทราย"
+      },
+      {
+        "pla_code": 3107,
+        "pla_name": "ประโคนชัย"
+      },
+      {
+        "pla_code": 3108,
+        "pla_name": "บ้านกรวด"
+      },
+      {
+        "pla_code": 3109,
+        "pla_name": "พุทไธสง"
+      },
+      {
+        "pla_code": 3110,
+        "pla_name": "ลำปลายมาศ"
+      },
+      {
+        "pla_code": 3111,
+        "pla_name": "สตึก"
+      },
+      {
+        "pla_code": 3112,
+        "pla_name": "ปะคำ"
+      },
+      {
+        "pla_code": 3113,
+        "pla_name": "นาโพธิ์"
+      },
+      {
+        "pla_code": 3114,
+        "pla_name": "หนองหงส์"
+      },
+      {
+        "pla_code": 3115,
+        "pla_name": "พลับพลาชัย"
+      },
+      {
+        "pla_code": 3116,
+        "pla_name": "ห้วยราช"
+      },
+      {
+        "pla_code": 3117,
+        "pla_name": "โนนสุวรรณ"
+      },
+      {
+        "pla_code": 3118,
+        "pla_name": "ชำนิ"
+      },
+      {
+        "pla_code": 3119,
+        "pla_name": "บ้านใหม่ไชยพจน์"
+      },
+      {
+        "pla_code": 3120,
+        "pla_name": "โนนดินแดง"
+      },
+      {
+        "pla_code": 3121,
+        "pla_name": "บ้านด่าน"
+      },
+      {
+        "pla_code": 3122,
+        "pla_name": "แคนดง"
+      },
+      {
+        "pla_code": 3123,
+        "pla_name": "เฉลิมพระเกียรติ"
+      }
+    ]
+  },
+  {
+    "pla_code": 32,
+    "pla_name": "สุรินทร์",
+    "dis": [
+      {
+        "pla_code": 3201,
+        "pla_name": "เมืองสุรินทร์"
+      },
+      {
+        "pla_code": 3202,
+        "pla_name": "ชุมพลบุรี"
+      },
+      {
+        "pla_code": 3203,
+        "pla_name": "ท่าตูม"
+      },
+      {
+        "pla_code": 3204,
+        "pla_name": "จอมพระ"
+      },
+      {
+        "pla_code": 3205,
+        "pla_name": "ปราสาท"
+      },
+      {
+        "pla_code": 3206,
+        "pla_name": "กาบเชิง"
+      },
+      {
+        "pla_code": 3207,
+        "pla_name": "รัตนบุรี"
+      },
+      {
+        "pla_code": 3208,
+        "pla_name": "สนม"
+      },
+      {
+        "pla_code": 3209,
+        "pla_name": "ศีขรภูมิ"
+      },
+      {
+        "pla_code": 3210,
+        "pla_name": "สังขะ"
+      },
+      {
+        "pla_code": 3211,
+        "pla_name": "ลำดวน"
+      },
+      {
+        "pla_code": 3212,
+        "pla_name": "สำโรงทาบ"
+      },
+      {
+        "pla_code": 3213,
+        "pla_name": "บัวเชด"
+      },
+      {
+        "pla_code": 3214,
+        "pla_name": "พนมดงรัก"
+      },
+      {
+        "pla_code": 3215,
+        "pla_name": "ศรีณรงค์"
+      },
+      {
+        "pla_code": 3216,
+        "pla_name": "เขวาสินรินทร์"
+      },
+      {
+        "pla_code": 3217,
+        "pla_name": "โนนนารายณ์"
+      }
+    ]
+  },
+  {
+    "pla_code": 33,
+    "pla_name": "ศรีสะเกษ",
+    "dis": [
+      {
+        "pla_code": 3301,
+        "pla_name": "เมืองศรีสะเกษ"
+      },
+      {
+        "pla_code": 3302,
+        "pla_name": "ยางชุมน้อย"
+      },
+      {
+        "pla_code": 3303,
+        "pla_name": "กันทรารมย์"
+      },
+      {
+        "pla_code": 3304,
+        "pla_name": "กันทรลักษ์"
+      },
+      {
+        "pla_code": 3305,
+        "pla_name": "ขุขันธ์"
+      },
+      {
+        "pla_code": 3306,
+        "pla_name": "ไพรบึง"
+      },
+      {
+        "pla_code": 3307,
+        "pla_name": "ปรางค์กู่"
+      },
+      {
+        "pla_code": 3308,
+        "pla_name": "ขุนหาญ"
+      },
+      {
+        "pla_code": 3309,
+        "pla_name": "ราษีไศล"
+      },
+      {
+        "pla_code": 3310,
+        "pla_name": "อุทุมพรพิสัย"
+      },
+      {
+        "pla_code": 3311,
+        "pla_name": "บึงบูรพ์"
+      },
+      {
+        "pla_code": 3312,
+        "pla_name": "ห้วยทับทัน"
+      },
+      {
+        "pla_code": 3313,
+        "pla_name": "โนนคูณ"
+      },
+      {
+        "pla_code": 3314,
+        "pla_name": "ศรีรัตนะ"
+      },
+      {
+        "pla_code": 3315,
+        "pla_name": "น้ำเกลี้ยง"
+      },
+      {
+        "pla_code": 3316,
+        "pla_name": "วังหิน"
+      },
+      {
+        "pla_code": 3317,
+        "pla_name": "ภูสิงห์"
+      },
+      {
+        "pla_code": 3318,
+        "pla_name": "เมืองจันทร์"
+      },
+      {
+        "pla_code": 3319,
+        "pla_name": "เบญจลักษ์"
+      },
+      {
+        "pla_code": 3320,
+        "pla_name": "พยุห์"
+      },
+      {
+        "pla_code": 3321,
+        "pla_name": "โพธิ์ศรีสุวรรณ"
+      },
+      {
+        "pla_code": 3322,
+        "pla_name": "ศิลาลาด"
+      }
+    ]
+  },
+  {
+    "pla_code": 34,
+    "pla_name": "อุบลราชธานี",
+    "dis": [
+      {
+        "pla_code": 3401,
+        "pla_name": "เมืองอุบลราชธานี"
+      },
+      {
+        "pla_code": 3402,
+        "pla_name": "ศรีเมืองใหม่"
+      },
+      {
+        "pla_code": 3403,
+        "pla_name": "โขงเจียม"
+      },
+      {
+        "pla_code": 3404,
+        "pla_name": "เขื่องใน"
+      },
+      {
+        "pla_code": 3405,
+        "pla_name": "เขมราฐ"
+      },
+      {
+        "pla_code": 3407,
+        "pla_name": "เดชอุดม"
+      },
+      {
+        "pla_code": 3408,
+        "pla_name": "นาจะหลวย"
+      },
+      {
+        "pla_code": 3409,
+        "pla_name": "น้ำยืน"
+      },
+      {
+        "pla_code": 3410,
+        "pla_name": "บุณฑริก"
+      },
+      {
+        "pla_code": 3411,
+        "pla_name": "ตระการพืชผล"
+      },
+      {
+        "pla_code": 3412,
+        "pla_name": "กุดข้าวปุ้น"
+      },
+      {
+        "pla_code": 3414,
+        "pla_name": "ม่วงสามสิบ"
+      },
+      {
+        "pla_code": 3415,
+        "pla_name": "วารินชำราบ"
+      },
+      {
+        "pla_code": 3419,
+        "pla_name": "พิบูลมังสาหาร"
+      },
+      {
+        "pla_code": 3420,
+        "pla_name": "ตาลสุม"
+      },
+      {
+        "pla_code": 3421,
+        "pla_name": "โพธิ์ไทร"
+      },
+      {
+        "pla_code": 3422,
+        "pla_name": "สำโรง"
+      },
+      {
+        "pla_code": 3424,
+        "pla_name": "ดอนมดแดง"
+      },
+      {
+        "pla_code": 3425,
+        "pla_name": "สิรินธร"
+      },
+      {
+        "pla_code": 3426,
+        "pla_name": "ทุ่งศรีอุดม"
+      },
+      {
+        "pla_code": 3429,
+        "pla_name": "นาเยีย"
+      },
+      {
+        "pla_code": 3430,
+        "pla_name": "นาตาล"
+      },
+      {
+        "pla_code": 3431,
+        "pla_name": "เหล่าเสือโก้ก"
+      },
+      {
+        "pla_code": 3432,
+        "pla_name": "สว่างวีระวงศ์"
+      },
+      {
+        "pla_code": 3433,
+        "pla_name": "น้ำขุ่น"
+      }
+    ]
+  },
+  {
+    "pla_code": 35,
+    "pla_name": "ยโสธร",
+    "dis": [
+      {
+        "pla_code": 3501,
+        "pla_name": "เมืองยโสธร"
+      },
+      {
+        "pla_code": 3502,
+        "pla_name": "ทรายมูล"
+      },
+      {
+        "pla_code": 3503,
+        "pla_name": "กุดชุม"
+      },
+      {
+        "pla_code": 3504,
+        "pla_name": "คำเขื่อนแก้ว"
+      },
+      {
+        "pla_code": 3505,
+        "pla_name": "ป่าติ้ว"
+      },
+      {
+        "pla_code": 3506,
+        "pla_name": "มหาชนะชัย"
+      },
+      {
+        "pla_code": 3507,
+        "pla_name": "ค้อวัง"
+      },
+      {
+        "pla_code": 3508,
+        "pla_name": "เลิงนกทา"
+      },
+      {
+        "pla_code": 3509,
+        "pla_name": "ไทยเจริญ"
+      }
+    ]
+  },
+  {
+    "pla_code": 36,
+    "pla_name": "ชัยภูมิ",
+    "dis": [
+      {
+        "pla_code": 3601,
+        "pla_name": "เมืองชัยภูมิ"
+      },
+      {
+        "pla_code": 3602,
+        "pla_name": "บ้านเขว้า"
+      },
+      {
+        "pla_code": 3603,
+        "pla_name": "คอนสวรรค์"
+      },
+      {
+        "pla_code": 3604,
+        "pla_name": "เกษตรสมบูรณ์"
+      },
+      {
+        "pla_code": 3605,
+        "pla_name": "หนองบัวแดง"
+      },
+      {
+        "pla_code": 3606,
+        "pla_name": "จัตุรัส"
+      },
+      {
+        "pla_code": 3607,
+        "pla_name": "บำเหน็จณรงค์"
+      },
+      {
+        "pla_code": 3608,
+        "pla_name": "หนองบัวระเหว"
+      },
+      {
+        "pla_code": 3609,
+        "pla_name": "เทพสถิต"
+      },
+      {
+        "pla_code": 3610,
+        "pla_name": "ภูเขียว"
+      },
+      {
+        "pla_code": 3611,
+        "pla_name": "บ้านแท่น"
+      },
+      {
+        "pla_code": 3612,
+        "pla_name": "แก้งคร้อ"
+      },
+      {
+        "pla_code": 3613,
+        "pla_name": "คอนสาร"
+      },
+      {
+        "pla_code": 3614,
+        "pla_name": "ภักดีชุมพล"
+      },
+      {
+        "pla_code": 3615,
+        "pla_name": "เนินสง่า"
+      },
+      {
+        "pla_code": 3616,
+        "pla_name": "ซับใหญ่"
+      }
+    ]
+  },
+  {
+    "pla_code": 37,
+    "pla_name": "อำนาจเจริญ",
+    "dis": [
+      {
+        "pla_code": 3701,
+        "pla_name": "เมืองอำนาจเจริญ"
+      },
+      {
+        "pla_code": 3702,
+        "pla_name": "ชานุมาน"
+      },
+      {
+        "pla_code": 3703,
+        "pla_name": "ปทุมราชวงศา"
+      },
+      {
+        "pla_code": 3704,
+        "pla_name": "พนา"
+      },
+      {
+        "pla_code": 3705,
+        "pla_name": "เสนางคนิคม"
+      },
+      {
+        "pla_code": 3706,
+        "pla_name": "หัวตะพาน"
+      },
+      {
+        "pla_code": 3707,
+        "pla_name": "ลืออำนาจ"
+      }
+    ]
+  },
+  {
+    "pla_code": 38,
+    "pla_name": "บึงกาฬ",
+    "dis": [
+      {
+        "pla_code": 3801,
+        "pla_name": "บึงกาฬ"
+      },
+      {
+        "pla_code": 3802,
+        "pla_name": "พรเจริญ"
+      },
+      {
+        "pla_code": 3803,
+        "pla_name": "โซ่พิสัย"
+      },
+      {
+        "pla_code": 3804,
+        "pla_name": "เซกา"
+      },
+      {
+        "pla_code": 3805,
+        "pla_name": "ปากคาด"
+      },
+      {
+        "pla_code": 3806,
+        "pla_name": "บึงโขงหลง"
+      },
+      {
+        "pla_code": 3807,
+        "pla_name": "ศรีวิไล"
+      },
+      {
+        "pla_code": 3808,
+        "pla_name": "บุ่งคล้า"
+      }
+    ]
+  },
+  {
+    "pla_code": 39,
+    "pla_name": "หนองบัวลำภู",
+    "dis": [
+      {
+        "pla_code": 3901,
+        "pla_name": "เมืองหนองบัวลำภู"
+      },
+      {
+        "pla_code": 3902,
+        "pla_name": "นากลาง"
+      },
+      {
+        "pla_code": 3903,
+        "pla_name": "โนนสัง"
+      },
+      {
+        "pla_code": 3904,
+        "pla_name": "ศรีบุญเรือง"
+      },
+      {
+        "pla_code": 3905,
+        "pla_name": "สุวรรณคูหา"
+      },
+      {
+        "pla_code": 3906,
+        "pla_name": "นาวัง"
+      }
+    ]
+  },
+  {
+    "pla_code": 40,
+    "pla_name": "ขอนแก่น",
+    "dis": [
+      {
+        "pla_code": 4001,
+        "pla_name": "เมืองขอนแก่น"
+      },
+      {
+        "pla_code": 4002,
+        "pla_name": "บ้านฝาง"
+      },
+      {
+        "pla_code": 4003,
+        "pla_name": "พระยืน"
+      },
+      {
+        "pla_code": 4004,
+        "pla_name": "หนองเรือ"
+      },
+      {
+        "pla_code": 4005,
+        "pla_name": "ชุมแพ"
+      },
+      {
+        "pla_code": 4006,
+        "pla_name": "สีชมพู"
+      },
+      {
+        "pla_code": 4007,
+        "pla_name": "น้ำพอง"
+      },
+      {
+        "pla_code": 4008,
+        "pla_name": "อุบลรัตน์"
+      },
+      {
+        "pla_code": 4009,
+        "pla_name": "กระนวน"
+      },
+      {
+        "pla_code": 4010,
+        "pla_name": "บ้านไผ่"
+      },
+      {
+        "pla_code": 4011,
+        "pla_name": "เปือยน้อย"
+      },
+      {
+        "pla_code": 4012,
+        "pla_name": "พล"
+      },
+      {
+        "pla_code": 4013,
+        "pla_name": "แวงใหญ่"
+      },
+      {
+        "pla_code": 4014,
+        "pla_name": "แวงน้อย"
+      },
+      {
+        "pla_code": 4015,
+        "pla_name": "หนองสองห้อง"
+      },
+      {
+        "pla_code": 4016,
+        "pla_name": "ภูเวียง"
+      },
+      {
+        "pla_code": 4017,
+        "pla_name": "มัญจาคีรี"
+      },
+      {
+        "pla_code": 4018,
+        "pla_name": "ชนบท"
+      },
+      {
+        "pla_code": 4019,
+        "pla_name": "เขาสวนกวาง"
+      },
+      {
+        "pla_code": 4020,
+        "pla_name": "ภูผาม่าน"
+      },
+      {
+        "pla_code": 4021,
+        "pla_name": "ซำสูง"
+      },
+      {
+        "pla_code": 4022,
+        "pla_name": "โคกโพธิ์ไชย"
+      },
+      {
+        "pla_code": 4023,
+        "pla_name": "หนองนาคำ"
+      },
+      {
+        "pla_code": 4024,
+        "pla_name": "บ้านแฮด"
+      },
+      {
+        "pla_code": 4025,
+        "pla_name": "โนนศิลา"
+      },
+      {
+        "pla_code": 4026,
+        "pla_name": "เวียงเก่า"
+      }
+    ]
+  },
+  {
+    "pla_code": 41,
+    "pla_name": "อุดรธานี",
+    "dis": [
+      {
+        "pla_code": 4101,
+        "pla_name": "เมืองอุดรธานี"
+      },
+      {
+        "pla_code": 4102,
+        "pla_name": "กุดจับ"
+      },
+      {
+        "pla_code": 4103,
+        "pla_name": "หนองวัวซอ"
+      },
+      {
+        "pla_code": 4104,
+        "pla_name": "กุมภวาปี"
+      },
+      {
+        "pla_code": 4105,
+        "pla_name": "โนนสะอาด"
+      },
+      {
+        "pla_code": 4106,
+        "pla_name": "หนองหาน"
+      },
+      {
+        "pla_code": 4107,
+        "pla_name": "ทุ่งฝน"
+      },
+      {
+        "pla_code": 4108,
+        "pla_name": "ไชยวาน"
+      },
+      {
+        "pla_code": 4109,
+        "pla_name": "ศรีธาตุ"
+      },
+      {
+        "pla_code": 4110,
+        "pla_name": "วังสามหมอ"
+      },
+      {
+        "pla_code": 4111,
+        "pla_name": "บ้านดุง"
+      },
+      {
+        "pla_code": 4117,
+        "pla_name": "บ้านผือ"
+      },
+      {
+        "pla_code": 4118,
+        "pla_name": "น้ำโสม"
+      },
+      {
+        "pla_code": 4119,
+        "pla_name": "เพ็ญ"
+      },
+      {
+        "pla_code": 4120,
+        "pla_name": "สร้างคอม"
+      },
+      {
+        "pla_code": 4121,
+        "pla_name": "หนองแสง"
+      },
+      {
+        "pla_code": 4122,
+        "pla_name": "นายูง"
+      },
+      {
+        "pla_code": 4123,
+        "pla_name": "พิบูลย์รักษ์"
+      },
+      {
+        "pla_code": 4124,
+        "pla_name": "กู่แก้ว"
+      },
+      {
+        "pla_code": 4125,
+        "pla_name": "ประจักษ์ศิลปาคม"
+      }
+    ]
+  },
+  {
+    "pla_code": 42,
+    "pla_name": "เลย",
+    "dis": [
+      {
+        "pla_code": 4201,
+        "pla_name": "เมืองเลย"
+      },
+      {
+        "pla_code": 4202,
+        "pla_name": "นาด้วง"
+      },
+      {
+        "pla_code": 4203,
+        "pla_name": "เชียงคาน"
+      },
+      {
+        "pla_code": 4204,
+        "pla_name": "ปากชม"
+      },
+      {
+        "pla_code": 4205,
+        "pla_name": "ด่านซ้าย"
+      },
+      {
+        "pla_code": 4206,
+        "pla_name": "นาแห้ว"
+      },
+      {
+        "pla_code": 4207,
+        "pla_name": "ภูเรือ"
+      },
+      {
+        "pla_code": 4208,
+        "pla_name": "ท่าลี่"
+      },
+      {
+        "pla_code": 4209,
+        "pla_name": "วังสะพุง"
+      },
+      {
+        "pla_code": 4210,
+        "pla_name": "ภูกระดึง"
+      },
+      {
+        "pla_code": 4211,
+        "pla_name": "ภูหลวง"
+      },
+      {
+        "pla_code": 4212,
+        "pla_name": "ผาขาว"
+      },
+      {
+        "pla_code": 4213,
+        "pla_name": "เอราวัณ"
+      },
+      {
+        "pla_code": 4214,
+        "pla_name": "หนองหิน"
+      }
+    ]
+  },
+  {
+    "pla_code": 43,
+    "pla_name": "หนองคาย",
+    "dis": [
+      {
+        "pla_code": 4301,
+        "pla_name": "เมืองหนองคาย"
+      },
+      {
+        "pla_code": 4302,
+        "pla_name": "ท่าบ่อ"
+      },
+      {
+        "pla_code": 4305,
+        "pla_name": "โพนพิสัย"
+      },
+      {
+        "pla_code": 4307,
+        "pla_name": "ศรีเชียงใหม่"
+      },
+      {
+        "pla_code": 4308,
+        "pla_name": "สังคม"
+      },
+      {
+        "pla_code": 4314,
+        "pla_name": "สระใคร"
+      },
+      {
+        "pla_code": 4315,
+        "pla_name": "เฝ้าไร่"
+      },
+      {
+        "pla_code": 4316,
+        "pla_name": "รัตนวาปี"
+      },
+      {
+        "pla_code": 4317,
+        "pla_name": "โพธิ์ตาก"
+      }
+    ]
+  },
+  {
+    "pla_code": 44,
+    "pla_name": "มหาสารคาม",
+    "dis": [
+      {
+        "pla_code": 4401,
+        "pla_name": "เมืองมหาสารคาม"
+      },
+      {
+        "pla_code": 4402,
+        "pla_name": "แกดำ"
+      },
+      {
+        "pla_code": 4403,
+        "pla_name": "โกสุมพิสัย"
+      },
+      {
+        "pla_code": 4404,
+        "pla_name": "กันทรวิชัย"
+      },
+      {
+        "pla_code": 4405,
+        "pla_name": "เชียงยืน"
+      },
+      {
+        "pla_code": 4406,
+        "pla_name": "บรบือ"
+      },
+      {
+        "pla_code": 4407,
+        "pla_name": "นาเชือก"
+      },
+      {
+        "pla_code": 4408,
+        "pla_name": "พยัคฆภูมิพิสัย"
+      },
+      {
+        "pla_code": 4409,
+        "pla_name": "วาปีปทุม"
+      },
+      {
+        "pla_code": 4410,
+        "pla_name": "นาดูน"
+      },
+      {
+        "pla_code": 4411,
+        "pla_name": "ยางสีสุราช"
+      },
+      {
+        "pla_code": 4412,
+        "pla_name": "กุดรัง"
+      },
+      {
+        "pla_code": 4413,
+        "pla_name": "ชื่นชม"
+      }
+    ]
+  },
+  {
+    "pla_code": 45,
+    "pla_name": "ร้อยเอ็ด",
+    "dis": [
+      {
+        "pla_code": 4501,
+        "pla_name": "เมืองร้อยเอ็ด"
+      },
+      {
+        "pla_code": 4502,
+        "pla_name": "เกษตรวิสัย"
+      },
+      {
+        "pla_code": 4503,
+        "pla_name": "ปทุมรัตต์"
+      },
+      {
+        "pla_code": 4504,
+        "pla_name": "จตุรพักตรพิมาน"
+      },
+      {
+        "pla_code": 4505,
+        "pla_name": "ธวัชบุรี"
+      },
+      {
+        "pla_code": 4506,
+        "pla_name": "พนมไพร"
+      },
+      {
+        "pla_code": 4507,
+        "pla_name": "โพนทอง"
+      },
+      {
+        "pla_code": 4508,
+        "pla_name": "โพธิ์ชัย"
+      },
+      {
+        "pla_code": 4509,
+        "pla_name": "หนองพอก"
+      },
+      {
+        "pla_code": 4510,
+        "pla_name": "เสลภูมิ"
+      },
+      {
+        "pla_code": 4511,
+        "pla_name": "สุวรรณภูมิ"
+      },
+      {
+        "pla_code": 4512,
+        "pla_name": "เมืองสรวง"
+      },
+      {
+        "pla_code": 4513,
+        "pla_name": "โพนทราย"
+      },
+      {
+        "pla_code": 4514,
+        "pla_name": "อาจสามารถ"
+      },
+      {
+        "pla_code": 4515,
+        "pla_name": "เมยวดี"
+      },
+      {
+        "pla_code": 4516,
+        "pla_name": "ศรีสมเด็จ"
+      },
+      {
+        "pla_code": 4517,
+        "pla_name": "จังหาร"
+      },
+      {
+        "pla_code": 4518,
+        "pla_name": "เชียงขวัญ"
+      },
+      {
+        "pla_code": 4519,
+        "pla_name": "หนองฮี"
+      },
+      {
+        "pla_code": 4520,
+        "pla_name": "ทุ่งเขาหลวง"
+      }
+    ]
+  },
+  {
+    "pla_code": 46,
+    "pla_name": "กาฬสินธุ์",
+    "dis": [
+      {
+        "pla_code": 4601,
+        "pla_name": "เมืองกาฬสินธุ์"
+      },
+      {
+        "pla_code": 4602,
+        "pla_name": "นามน"
+      },
+      {
+        "pla_code": 4603,
+        "pla_name": "กมลาไสย"
+      },
+      {
+        "pla_code": 4604,
+        "pla_name": "ร่องคำ"
+      },
+      {
+        "pla_code": 4605,
+        "pla_name": "กุฉินารายณ์"
+      },
+      {
+        "pla_code": 4606,
+        "pla_name": "เขาวง"
+      },
+      {
+        "pla_code": 4607,
+        "pla_name": "ยางตลาด"
+      },
+      {
+        "pla_code": 4608,
+        "pla_name": "ห้วยเม็ก"
+      },
+      {
+        "pla_code": 4609,
+        "pla_name": "สหัสขันธ์"
+      },
+      {
+        "pla_code": 4610,
+        "pla_name": "คำม่วง"
+      },
+      {
+        "pla_code": 4611,
+        "pla_name": "ท่าคันโท"
+      },
+      {
+        "pla_code": 4612,
+        "pla_name": "หนองกุงศรี"
+      },
+      {
+        "pla_code": 4613,
+        "pla_name": "สมเด็จ"
+      },
+      {
+        "pla_code": 4614,
+        "pla_name": "ห้วยผึ้ง"
+      },
+      {
+        "pla_code": 4615,
+        "pla_name": "สามชัย"
+      },
+      {
+        "pla_code": 4616,
+        "pla_name": "นาคู"
+      },
+      {
+        "pla_code": 4617,
+        "pla_name": "ดอนจาน"
+      },
+      {
+        "pla_code": 4618,
+        "pla_name": "ฆ้องชัย"
+      }
+    ]
+  },
+  {
+    "pla_code": 47,
+    "pla_name": "สกลนคร",
+    "dis": [
+      {
+        "pla_code": 4701,
+        "pla_name": "เมืองสกลนคร"
+      },
+      {
+        "pla_code": 4702,
+        "pla_name": "กุสุมาลย์"
+      },
+      {
+        "pla_code": 4703,
+        "pla_name": "กุดบาก"
+      },
+      {
+        "pla_code": 4704,
+        "pla_name": "พรรณานิคม"
+      },
+      {
+        "pla_code": 4705,
+        "pla_name": "พังโคน"
+      },
+      {
+        "pla_code": 4706,
+        "pla_name": "วาริชภูมิ"
+      },
+      {
+        "pla_code": 4707,
+        "pla_name": "นิคมน้ำอูน"
+      },
+      {
+        "pla_code": 4708,
+        "pla_name": "วานรนิวาส"
+      },
+      {
+        "pla_code": 4709,
+        "pla_name": "คำตากล้า"
+      },
+      {
+        "pla_code": 4710,
+        "pla_name": "บ้านม่วง"
+      },
+      {
+        "pla_code": 4711,
+        "pla_name": "อากาศอำนวย"
+      },
+      {
+        "pla_code": 4712,
+        "pla_name": "สว่างแดนดิน"
+      },
+      {
+        "pla_code": 4713,
+        "pla_name": "ส่องดาว"
+      },
+      {
+        "pla_code": 4714,
+        "pla_name": "เต่างอย"
+      },
+      {
+        "pla_code": 4715,
+        "pla_name": "โคกศรีสุพรรณ"
+      },
+      {
+        "pla_code": 4716,
+        "pla_name": "เจริญศิลป์"
+      },
+      {
+        "pla_code": 4717,
+        "pla_name": "โพนนาแก้ว"
+      },
+      {
+        "pla_code": 4718,
+        "pla_name": "ภูพาน"
+      }
+    ]
+  },
+  {
+    "pla_code": 48,
+    "pla_name": "นครพนม",
+    "dis": [
+      {
+        "pla_code": 4801,
+        "pla_name": "เมืองนครพนม"
+      },
+      {
+        "pla_code": 4802,
+        "pla_name": "ปลาปาก"
+      },
+      {
+        "pla_code": 4803,
+        "pla_name": "ท่าอุเทน"
+      },
+      {
+        "pla_code": 4804,
+        "pla_name": "บ้านแพง"
+      },
+      {
+        "pla_code": 4805,
+        "pla_name": "ธาตุพนม"
+      },
+      {
+        "pla_code": 4806,
+        "pla_name": "เรณูนคร"
+      },
+      {
+        "pla_code": 4807,
+        "pla_name": "นาแก"
+      },
+      {
+        "pla_code": 4808,
+        "pla_name": "ศรีสงคราม"
+      },
+      {
+        "pla_code": 4809,
+        "pla_name": "นาหว้า"
+      },
+      {
+        "pla_code": 4810,
+        "pla_name": "โพนสวรรค์"
+      },
+      {
+        "pla_code": 4811,
+        "pla_name": "นาทม"
+      },
+      {
+        "pla_code": 4812,
+        "pla_name": "วังยาง"
+      }
+    ]
+  },
+  {
+    "pla_code": 49,
+    "pla_name": "มุกดาหาร",
+    "dis": [
+      {
+        "pla_code": 4901,
+        "pla_name": "เมืองมุกดาหาร"
+      },
+      {
+        "pla_code": 4902,
+        "pla_name": "นิคมคำสร้อย"
+      },
+      {
+        "pla_code": 4903,
+        "pla_name": "ดอนตาล"
+      },
+      {
+        "pla_code": 4904,
+        "pla_name": "ดงหลวง"
+      },
+      {
+        "pla_code": 4905,
+        "pla_name": "คำชะอี"
+      },
+      {
+        "pla_code": 4906,
+        "pla_name": "ว่านใหญ่"
+      },
+      {
+        "pla_code": 4907,
+        "pla_name": "หนองสูง"
+      }
+    ]
+  },
+  {
+    "pla_code": 50,
+    "pla_name": "เชียงใหม่",
+    "dis": [
+      {
+        "pla_code": 5001,
+        "pla_name": "เมืองเชียงใหม่"
+      },
+      {
+        "pla_code": 5002,
+        "pla_name": "จอมทอง"
+      },
+      {
+        "pla_code": 5003,
+        "pla_name": "แม่แจ่ม"
+      },
+      {
+        "pla_code": 5004,
+        "pla_name": "เชียงดาว"
+      },
+      {
+        "pla_code": 5005,
+        "pla_name": "ดอยสะเก็ด"
+      },
+      {
+        "pla_code": 5006,
+        "pla_name": "แม่แตง"
+      },
+      {
+        "pla_code": 5007,
+        "pla_name": "แม่ริม"
+      },
+      {
+        "pla_code": 5008,
+        "pla_name": "สะเมิง"
+      },
+      {
+        "pla_code": 5009,
+        "pla_name": "ฝาง"
+      },
+      {
+        "pla_code": 5010,
+        "pla_name": "แม่อาย"
+      },
+      {
+        "pla_code": 5011,
+        "pla_name": "พร้าว"
+      },
+      {
+        "pla_code": 5012,
+        "pla_name": "สันป่าตอง"
+      },
+      {
+        "pla_code": 5013,
+        "pla_name": "สันกำแพง"
+      },
+      {
+        "pla_code": 5014,
+        "pla_name": "สันทราย"
+      },
+      {
+        "pla_code": 5015,
+        "pla_name": "หางดง"
+      },
+      {
+        "pla_code": 5016,
+        "pla_name": "ฮอด"
+      },
+      {
+        "pla_code": 5017,
+        "pla_name": "ดอยเต่า"
+      },
+      {
+        "pla_code": 5018,
+        "pla_name": "อมก๋อย"
+      },
+      {
+        "pla_code": 5019,
+        "pla_name": "สารภี"
+      },
+      {
+        "pla_code": 5020,
+        "pla_name": "เวียงแหง"
+      },
+      {
+        "pla_code": 5021,
+        "pla_name": "ไชยปราการ"
+      },
+      {
+        "pla_code": 5022,
+        "pla_name": "แม่วาง"
+      },
+      {
+        "pla_code": 5023,
+        "pla_name": "แม่ออน"
+      },
+      {
+        "pla_code": 5024,
+        "pla_name": "ดอยหล่อ"
+      },
+      {
+        "pla_code": 5025,
+        "pla_name": "กัลยาณิวัฒนา"
+      }
+    ]
+  },
+  {
+    "pla_code": 51,
+    "pla_name": "ลำพูน",
+    "dis": [
+      {
+        "pla_code": 5101,
+        "pla_name": "เมืองลำพูน"
+      },
+      {
+        "pla_code": 5102,
+        "pla_name": "แม่ทา"
+      },
+      {
+        "pla_code": 5103,
+        "pla_name": "บ้านโฮ่ง"
+      },
+      {
+        "pla_code": 5104,
+        "pla_name": "ลี้"
+      },
+      {
+        "pla_code": 5105,
+        "pla_name": "ทุ่งหัวช้าง"
+      },
+      {
+        "pla_code": 5106,
+        "pla_name": "ป่าซาง"
+      },
+      {
+        "pla_code": 5107,
+        "pla_name": "บ้านธิ"
+      },
+      {
+        "pla_code": 5108,
+        "pla_name": "เวียงหนองล่อง"
+      }
+    ]
+  },
+  {
+    "pla_code": 52,
+    "pla_name": "ลำปาง",
+    "dis": [
+      {
+        "pla_code": 5201,
+        "pla_name": "เมืองลำปาง"
+      },
+      {
+        "pla_code": 5202,
+        "pla_name": "แม่เมาะ"
+      },
+      {
+        "pla_code": 5203,
+        "pla_name": "เกาะคา"
+      },
+      {
+        "pla_code": 5204,
+        "pla_name": "เสริมงาม"
+      },
+      {
+        "pla_code": 5205,
+        "pla_name": "งาว"
+      },
+      {
+        "pla_code": 5206,
+        "pla_name": "แจ้ห่ม"
+      },
+      {
+        "pla_code": 5207,
+        "pla_name": "วังเหนือ"
+      },
+      {
+        "pla_code": 5208,
+        "pla_name": "เถิน"
+      },
+      {
+        "pla_code": 5209,
+        "pla_name": "แม่พริก"
+      },
+      {
+        "pla_code": 5210,
+        "pla_name": "แม่ทะ"
+      },
+      {
+        "pla_code": 5211,
+        "pla_name": "สบปราบ"
+      },
+      {
+        "pla_code": 5212,
+        "pla_name": "ห้างฉัตร"
+      },
+      {
+        "pla_code": 5213,
+        "pla_name": "เมืองปาน"
+      }
+    ]
+  },
+  {
+    "pla_code": 53,
+    "pla_name": "อุตรดิตถ์",
+    "dis": [
+      {
+        "pla_code": 5301,
+        "pla_name": "เมืองอุตรดิตถ์"
+      },
+      {
+        "pla_code": 5302,
+        "pla_name": "ตรอน"
+      },
+      {
+        "pla_code": 5303,
+        "pla_name": "ท่าปลา"
+      },
+      {
+        "pla_code": 5304,
+        "pla_name": "น้ำปาด"
+      },
+      {
+        "pla_code": 5305,
+        "pla_name": "ฟากท่า"
+      },
+      {
+        "pla_code": 5306,
+        "pla_name": "บ้านโคก"
+      },
+      {
+        "pla_code": 5307,
+        "pla_name": "พิชัย"
+      },
+      {
+        "pla_code": 5308,
+        "pla_name": "ลับแล"
+      },
+      {
+        "pla_code": 5309,
+        "pla_name": "ทองแสนขัน"
+      }
+    ]
+  },
+  {
+    "pla_code": 54,
+    "pla_name": "แพร่",
+    "dis": [
+      {
+        "pla_code": 5401,
+        "pla_name": "เมืองแพร่"
+      },
+      {
+        "pla_code": 5402,
+        "pla_name": "ร้องกวาง"
+      },
+      {
+        "pla_code": 5403,
+        "pla_name": "ลอง"
+      },
+      {
+        "pla_code": 5404,
+        "pla_name": "สูงเม่น"
+      },
+      {
+        "pla_code": 5405,
+        "pla_name": "เด่นชัย"
+      },
+      {
+        "pla_code": 5406,
+        "pla_name": "สอง"
+      },
+      {
+        "pla_code": 5407,
+        "pla_name": "วังชิ้น"
+      },
+      {
+        "pla_code": 5408,
+        "pla_name": "หนองม่วงไข่"
+      }
+    ]
+  },
+  {
+    "pla_code": 55,
+    "pla_name": "น่าน",
+    "dis": [
+      {
+        "pla_code": 5501,
+        "pla_name": "เมืองน่าน"
+      },
+      {
+        "pla_code": 5502,
+        "pla_name": "แม่จริม"
+      },
+      {
+        "pla_code": 5503,
+        "pla_name": "บ้านหลวง"
+      },
+      {
+        "pla_code": 5504,
+        "pla_name": "นาน้อย"
+      },
+      {
+        "pla_code": 5505,
+        "pla_name": "ปัว"
+      },
+      {
+        "pla_code": 5506,
+        "pla_name": "ท่าวังผา"
+      },
+      {
+        "pla_code": 5507,
+        "pla_name": "เวียงสา"
+      },
+      {
+        "pla_code": 5508,
+        "pla_name": "ทุ่งช้าง"
+      },
+      {
+        "pla_code": 5509,
+        "pla_name": "เชียงกลาง"
+      },
+      {
+        "pla_code": 5510,
+        "pla_name": "นาหมื่น"
+      },
+      {
+        "pla_code": 5511,
+        "pla_name": "สันติสุข"
+      },
+      {
+        "pla_code": 5512,
+        "pla_name": "บ่อเกลือ"
+      },
+      {
+        "pla_code": 5513,
+        "pla_name": "สองแคว"
+      },
+      {
+        "pla_code": 5514,
+        "pla_name": "ภูเพียง"
+      },
+      {
+        "pla_code": 5515,
+        "pla_name": "เฉลิมพระเกียรติ"
+      }
+    ]
+  },
+  {
+    "pla_code": 56,
+    "pla_name": "พะเยา",
+    "dis": [
+      {
+        "pla_code": 5601,
+        "pla_name": "เมืองพะเยา"
+      },
+      {
+        "pla_code": 5602,
+        "pla_name": "จุน"
+      },
+      {
+        "pla_code": 5603,
+        "pla_name": "เชียงคำ"
+      },
+      {
+        "pla_code": 5604,
+        "pla_name": "เชียงม่วน"
+      },
+      {
+        "pla_code": 5605,
+        "pla_name": "ดอกคำใต้"
+      },
+      {
+        "pla_code": 5606,
+        "pla_name": "ปง"
+      },
+      {
+        "pla_code": 5607,
+        "pla_name": "แม่ใจ"
+      },
+      {
+        "pla_code": 5608,
+        "pla_name": "ภูซาง"
+      },
+      {
+        "pla_code": 5609,
+        "pla_name": "ภูกามยาว"
+      }
+    ]
+  },
+  {
+    "pla_code": 57,
+    "pla_name": "เชียงราย",
+    "dis": [
+      {
+        "pla_code": 5701,
+        "pla_name": "เมืองเชียงราย"
+      },
+      {
+        "pla_code": 5702,
+        "pla_name": "เวียงชัย"
+      },
+      {
+        "pla_code": 5703,
+        "pla_name": "เชียงของ"
+      },
+      {
+        "pla_code": 5704,
+        "pla_name": "เทิง"
+      },
+      {
+        "pla_code": 5705,
+        "pla_name": "พาน"
+      },
+      {
+        "pla_code": 5706,
+        "pla_name": "ป่าแดด"
+      },
+      {
+        "pla_code": 5707,
+        "pla_name": "แม่จัน"
+      },
+      {
+        "pla_code": 5708,
+        "pla_name": "เชียงแสน"
+      },
+      {
+        "pla_code": 5709,
+        "pla_name": "แม่สาย"
+      },
+      {
+        "pla_code": 5710,
+        "pla_name": "แม่สรวย"
+      },
+      {
+        "pla_code": 5711,
+        "pla_name": "เวียงป่าเป้า"
+      },
+      {
+        "pla_code": 5712,
+        "pla_name": "พญาเม็งราย"
+      },
+      {
+        "pla_code": 5713,
+        "pla_name": "เวียงแก่น"
+      },
+      {
+        "pla_code": 5714,
+        "pla_name": "ขุนตาล"
+      },
+      {
+        "pla_code": 5715,
+        "pla_name": "แม่ฟ้าหลวง"
+      },
+      {
+        "pla_code": 5716,
+        "pla_name": "แม่ลาว"
+      },
+      {
+        "pla_code": 5717,
+        "pla_name": "เวียงเชียงรุ้ง"
+      },
+      {
+        "pla_code": 5718,
+        "pla_name": "ดอยหลวง"
+      }
+    ]
+  },
+  {
+    "pla_code": 58,
+    "pla_name": "แม่ฮ่องสอน",
+    "dis": [
+      {
+        "pla_code": 5801,
+        "pla_name": "เมืองแม่ฮ่องสอน"
+      },
+      {
+        "pla_code": 5802,
+        "pla_name": "ขุนยวม"
+      },
+      {
+        "pla_code": 5803,
+        "pla_name": "ปาย"
+      },
+      {
+        "pla_code": 5804,
+        "pla_name": "แม่สะเรียง"
+      },
+      {
+        "pla_code": 5805,
+        "pla_name": "แม่ลาน้อย"
+      },
+      {
+        "pla_code": 5806,
+        "pla_name": "สบเมย"
+      },
+      {
+        "pla_code": 5807,
+        "pla_name": "ปางมะผ้า"
+      }
+    ]
+  },
+  {
+    "pla_code": 60,
+    "pla_name": "นครสวรรค์",
+    "dis": [
+      {
+        "pla_code": 6001,
+        "pla_name": "เมืองนครสวรรค์"
+      },
+      {
+        "pla_code": 6002,
+        "pla_name": "โกรกพระ"
+      },
+      {
+        "pla_code": 6003,
+        "pla_name": "ชุมแสง"
+      },
+      {
+        "pla_code": 6004,
+        "pla_name": "หนองบัว"
+      },
+      {
+        "pla_code": 6005,
+        "pla_name": "บรรพตพิสัย"
+      },
+      {
+        "pla_code": 6006,
+        "pla_name": "เก้าเลี้ยว"
+      },
+      {
+        "pla_code": 6007,
+        "pla_name": "ตาคลี"
+      },
+      {
+        "pla_code": 6008,
+        "pla_name": "ท่าตะโก"
+      },
+      {
+        "pla_code": 6009,
+        "pla_name": "ไพศาลี"
+      },
+      {
+        "pla_code": 6010,
+        "pla_name": "พยุหะคีรี"
+      },
+      {
+        "pla_code": 6011,
+        "pla_name": "ลาดยาว"
+      },
+      {
+        "pla_code": 6012,
+        "pla_name": "ตากฟ้า"
+      },
+      {
+        "pla_code": 6013,
+        "pla_name": "แม่วงก์"
+      },
+      {
+        "pla_code": 6014,
+        "pla_name": "แม่เปิน"
+      },
+      {
+        "pla_code": 6015,
+        "pla_name": "ชุมตาบง"
+      }
+    ]
+  },
+  {
+    "pla_code": 61,
+    "pla_name": "อุทัยธานี",
+    "dis": [
+      {
+        "pla_code": 6101,
+        "pla_name": "เมืองอุทัยธานี"
+      },
+      {
+        "pla_code": 6102,
+        "pla_name": "ทัพทัน"
+      },
+      {
+        "pla_code": 6103,
+        "pla_name": "สว่างอารมณ์"
+      },
+      {
+        "pla_code": 6104,
+        "pla_name": "หนองฉาง"
+      },
+      {
+        "pla_code": 6105,
+        "pla_name": "หนองขาหย่าง"
+      },
+      {
+        "pla_code": 6106,
+        "pla_name": "บ้านไร่"
+      },
+      {
+        "pla_code": 6107,
+        "pla_name": "ลานสัก"
+      },
+      {
+        "pla_code": 6108,
+        "pla_name": "ห้วยคต"
+      }
+    ]
+  },
+  {
+    "pla_code": 62,
+    "pla_name": "กำแพงเพชร",
+    "dis": [
+      {
+        "pla_code": 6201,
+        "pla_name": "เมืองกำแพงเพชร"
+      },
+      {
+        "pla_code": 6202,
+        "pla_name": "ไทรงาม"
+      },
+      {
+        "pla_code": 6203,
+        "pla_name": "คลองลาน"
+      },
+      {
+        "pla_code": 6204,
+        "pla_name": "ขาณุวรลักษบุรี"
+      },
+      {
+        "pla_code": 6205,
+        "pla_name": "คลองขลุง"
+      },
+      {
+        "pla_code": 6206,
+        "pla_name": "พรานกระต่าย"
+      },
+      {
+        "pla_code": 6207,
+        "pla_name": "ลานกระบือ"
+      },
+      {
+        "pla_code": 6208,
+        "pla_name": "ทรายทองวัฒนา"
+      },
+      {
+        "pla_code": 6209,
+        "pla_name": "ปางศิลาทอง"
+      },
+      {
+        "pla_code": 6210,
+        "pla_name": "บึงสามัคคี"
+      },
+      {
+        "pla_code": 6211,
+        "pla_name": "โกสัมพีนคร"
+      }
+    ]
+  },
+  {
+    "pla_code": 63,
+    "pla_name": "ตาก",
+    "dis": [
+      {
+        "pla_code": 6301,
+        "pla_name": "เมืองตาก"
+      },
+      {
+        "pla_code": 6302,
+        "pla_name": "บ้านตาก"
+      },
+      {
+        "pla_code": 6303,
+        "pla_name": "สามเงา"
+      },
+      {
+        "pla_code": 6304,
+        "pla_name": "แม่ระมาด"
+      },
+      {
+        "pla_code": 6305,
+        "pla_name": "ท่าสองยาง"
+      },
+      {
+        "pla_code": 6306,
+        "pla_name": "แม่สอด"
+      },
+      {
+        "pla_code": 6307,
+        "pla_name": "พบพระ"
+      },
+      {
+        "pla_code": 6308,
+        "pla_name": "อุ้มผาง"
+      },
+      {
+        "pla_code": 6309,
+        "pla_name": "วังเจ้า"
+      }
+    ]
+  },
+  {
+    "pla_code": 64,
+    "pla_name": "สุโขทัย",
+    "dis": [
+      {
+        "pla_code": 6401,
+        "pla_name": "เมืองสุโขทัย"
+      },
+      {
+        "pla_code": 6402,
+        "pla_name": "บ้านด่านลานหอย"
+      },
+      {
+        "pla_code": 6403,
+        "pla_name": "คีรีมาศ"
+      },
+      {
+        "pla_code": 6404,
+        "pla_name": "กงไกรลาศ"
+      },
+      {
+        "pla_code": 6405,
+        "pla_name": "ศรีสัชนาลัย"
+      },
+      {
+        "pla_code": 6406,
+        "pla_name": "ศรีสำโรง"
+      },
+      {
+        "pla_code": 6407,
+        "pla_name": "สวรรคโลก"
+      },
+      {
+        "pla_code": 6408,
+        "pla_name": "ศรีนคร"
+      },
+      {
+        "pla_code": 6409,
+        "pla_name": "ทุ่งเสลี่ยม"
+      }
+    ]
+  },
+  {
+    "pla_code": 65,
+    "pla_name": "พิษณุโลก",
+    "dis": [
+      {
+        "pla_code": 6501,
+        "pla_name": "เมืองพิษณุโลก"
+      },
+      {
+        "pla_code": 6502,
+        "pla_name": "นครไทย"
+      },
+      {
+        "pla_code": 6503,
+        "pla_name": "ชาติตระการ"
+      },
+      {
+        "pla_code": 6504,
+        "pla_name": "บางระกำ"
+      },
+      {
+        "pla_code": 6505,
+        "pla_name": "บางกระทุ่ม"
+      },
+      {
+        "pla_code": 6506,
+        "pla_name": "พรหมพิราม"
+      },
+      {
+        "pla_code": 6507,
+        "pla_name": "วัดโบสถ์"
+      },
+      {
+        "pla_code": 6508,
+        "pla_name": "วังทอง"
+      },
+      {
+        "pla_code": 6509,
+        "pla_name": "เนินมะปราง"
+      }
+    ]
+  },
+  {
+    "pla_code": 66,
+    "pla_name": "พิจิตร",
+    "dis": [
+      {
+        "pla_code": 6601,
+        "pla_name": "เมืองพิจิตร"
+      },
+      {
+        "pla_code": 6602,
+        "pla_name": "วังทรายพูน"
+      },
+      {
+        "pla_code": 6603,
+        "pla_name": "โพธิ์ประทับช้าง"
+      },
+      {
+        "pla_code": 6604,
+        "pla_name": "ตะพานหิน"
+      },
+      {
+        "pla_code": 6605,
+        "pla_name": "บางมูลนาก"
+      },
+      {
+        "pla_code": 6606,
+        "pla_name": "โพทะเล"
+      },
+      {
+        "pla_code": 6607,
+        "pla_name": "สามง่าม"
+      },
+      {
+        "pla_code": 6608,
+        "pla_name": "ทับคล้อ"
+      },
+      {
+        "pla_code": 6609,
+        "pla_name": "สากเหล็ก"
+      },
+      {
+        "pla_code": 6610,
+        "pla_name": "บึงนาราง"
+      },
+      {
+        "pla_code": 6611,
+        "pla_name": "ดงเจริญ"
+      },
+      {
+        "pla_code": 6612,
+        "pla_name": "วชิรบารมี"
+      }
+    ]
+  },
+  {
+    "pla_code": 67,
+    "pla_name": "เพชรบูรณ์",
+    "dis": [
+      {
+        "pla_code": 6701,
+        "pla_name": "เมืองเพชรบูรณ์"
+      },
+      {
+        "pla_code": 6702,
+        "pla_name": "ชนแดน"
+      },
+      {
+        "pla_code": 6703,
+        "pla_name": "หล่มสัก"
+      },
+      {
+        "pla_code": 6704,
+        "pla_name": "หล่มเก่า"
+      },
+      {
+        "pla_code": 6705,
+        "pla_name": "วิเชียรบุรี"
+      },
+      {
+        "pla_code": 6706,
+        "pla_name": "ศรีเทพ"
+      },
+      {
+        "pla_code": 6707,
+        "pla_name": "หนองไผ่"
+      },
+      {
+        "pla_code": 6708,
+        "pla_name": "บึงสามพัน"
+      },
+      {
+        "pla_code": 6709,
+        "pla_name": "น้ำหนาว"
+      },
+      {
+        "pla_code": 6710,
+        "pla_name": "วังโป่ง"
+      },
+      {
+        "pla_code": 6711,
+        "pla_name": "เขาค้อ"
+      }
+    ]
+  },
+  {
+    "pla_code": 70,
+    "pla_name": "ราชบุรี",
+    "dis": [
+      {
+        "pla_code": 7001,
+        "pla_name": "เมืองราชบุรี"
+      },
+      {
+        "pla_code": 7002,
+        "pla_name": "จอมบึง"
+      },
+      {
+        "pla_code": 7003,
+        "pla_name": "สวนผึ้ง"
+      },
+      {
+        "pla_code": 7004,
+        "pla_name": "ดำเนินสะดวก"
+      },
+      {
+        "pla_code": 7005,
+        "pla_name": "บ้านโป่ง"
+      },
+      {
+        "pla_code": 7006,
+        "pla_name": "บางแพ"
+      },
+      {
+        "pla_code": 7007,
+        "pla_name": "โพธาราม"
+      },
+      {
+        "pla_code": 7008,
+        "pla_name": "ปากท่อ"
+      },
+      {
+        "pla_code": 7009,
+        "pla_name": "วัดเพลง"
+      },
+      {
+        "pla_code": 7010,
+        "pla_name": "บ้านคา"
+      }
+    ]
+  },
+  {
+    "pla_code": 71,
+    "pla_name": "กาญจนบุรี",
+    "dis": [
+      {
+        "pla_code": 7101,
+        "pla_name": "เมืองกาญจนบุรี"
+      },
+      {
+        "pla_code": 7102,
+        "pla_name": "ไทรโยค"
+      },
+      {
+        "pla_code": 7103,
+        "pla_name": "บ่อพลอย"
+      },
+      {
+        "pla_code": 7104,
+        "pla_name": "ศรีสวัสดิ์"
+      },
+      {
+        "pla_code": 7105,
+        "pla_name": "ท่ามะกา"
+      },
+      {
+        "pla_code": 7106,
+        "pla_name": "ท่าม่วง"
+      },
+      {
+        "pla_code": 7107,
+        "pla_name": "ทองผาภูมิ"
+      },
+      {
+        "pla_code": 7108,
+        "pla_name": "สังขละบุรี"
+      },
+      {
+        "pla_code": 7109,
+        "pla_name": "พนมทวน"
+      },
+      {
+        "pla_code": 7110,
+        "pla_name": "เลาขวัญ"
+      },
+      {
+        "pla_code": 7111,
+        "pla_name": "ด่านมะขามเตี้ย"
+      },
+      {
+        "pla_code": 7112,
+        "pla_name": "หนองปรือ"
+      },
+      {
+        "pla_code": 7113,
+        "pla_name": "ห้วยกระเจา"
+      }
+    ]
+  },
+  {
+    "pla_code": 72,
+    "pla_name": "สุพรรณบุรี",
+    "dis": [
+      {
+        "pla_code": 7201,
+        "pla_name": "เมืองสุพรรณบุรี"
+      },
+      {
+        "pla_code": 7202,
+        "pla_name": "เดิมบางนางบวช"
+      },
+      {
+        "pla_code": 7203,
+        "pla_name": "ด่านช้าง"
+      },
+      {
+        "pla_code": 7204,
+        "pla_name": "บางปลาม้า"
+      },
+      {
+        "pla_code": 7205,
+        "pla_name": "ศรีประจันต์"
+      },
+      {
+        "pla_code": 7206,
+        "pla_name": "ดอนเจดีย์"
+      },
+      {
+        "pla_code": 7207,
+        "pla_name": "สองพี่น้อง"
+      },
+      {
+        "pla_code": 7208,
+        "pla_name": "สามชุก"
+      },
+      {
+        "pla_code": 7209,
+        "pla_name": "อู่ทอง"
+      },
+      {
+        "pla_code": 7210,
+        "pla_name": "หนองหญ้าไซ"
+      }
+    ]
+  },
+  {
+    "pla_code": 73,
+    "pla_name": "นครปฐม",
+    "dis": [
+      {
+        "pla_code": 7301,
+        "pla_name": "เมืองนครปฐม"
+      },
+      {
+        "pla_code": 7302,
+        "pla_name": "กำแพงแสน"
+      },
+      {
+        "pla_code": 7303,
+        "pla_name": "นครชัยศรี"
+      },
+      {
+        "pla_code": 7304,
+        "pla_name": "ดอนตูม"
+      },
+      {
+        "pla_code": 7305,
+        "pla_name": "บางเลน"
+      },
+      {
+        "pla_code": 7306,
+        "pla_name": "สามพราน"
+      },
+      {
+        "pla_code": 7307,
+        "pla_name": "พุทธมณฑล"
+      }
+    ]
+  },
+  {
+    "pla_code": 74,
+    "pla_name": "สมุทรสาคร",
+    "dis": [
+      {
+        "pla_code": 7401,
+        "pla_name": "เมืองสมุทรสาคร"
+      },
+      {
+        "pla_code": 7402,
+        "pla_name": "กระทุ่มแบน"
+      },
+      {
+        "pla_code": 7403,
+        "pla_name": "บ้านแพ้ว"
+      }
+    ]
+  },
+  {
+    "pla_code": 75,
+    "pla_name": "สมุทรสงคราม",
+    "dis": [
+      {
+        "pla_code": 7501,
+        "pla_name": "เมืองสมุทรสงคราม"
+      },
+      {
+        "pla_code": 7502,
+        "pla_name": "บางคนที"
+      },
+      {
+        "pla_code": 7503,
+        "pla_name": "อัมพวา"
+      }
+    ]
+  },
+  {
+    "pla_code": 76,
+    "pla_name": "เพชรบุรี",
+    "dis": [
+      {
+        "pla_code": 7601,
+        "pla_name": "เมืองเพชรบุรี"
+      },
+      {
+        "pla_code": 7602,
+        "pla_name": "เขาย้อย"
+      },
+      {
+        "pla_code": 7603,
+        "pla_name": "หนองหญ้าปล้อง"
+      },
+      {
+        "pla_code": 7604,
+        "pla_name": "ชะอำ"
+      },
+      {
+        "pla_code": 7605,
+        "pla_name": "ท่ายาง"
+      },
+      {
+        "pla_code": 7606,
+        "pla_name": "บ้านลาด"
+      },
+      {
+        "pla_code": 7607,
+        "pla_name": "บ้านแหลม"
+      },
+      {
+        "pla_code": 7608,
+        "pla_name": "แก่งกระจาน"
+      }
+    ]
+  },
+  {
+    "pla_code": 77,
+    "pla_name": "ประจวบคีรีขันธ์",
+    "dis": [
+      {
+        "pla_code": 7701,
+        "pla_name": "เมืองประจวบคีรีขันธ์"
+      },
+      {
+        "pla_code": 7702,
+        "pla_name": "กุยบุรี"
+      },
+      {
+        "pla_code": 7703,
+        "pla_name": "ทับสะแก"
+      },
+      {
+        "pla_code": 7704,
+        "pla_name": "บางสะพาน"
+      },
+      {
+        "pla_code": 7705,
+        "pla_name": "บางสะพานน้อย"
+      },
+      {
+        "pla_code": 7706,
+        "pla_name": "ปราณบุรี"
+      },
+      {
+        "pla_code": 7707,
+        "pla_name": "หัวหิน"
+      },
+      {
+        "pla_code": 7708,
+        "pla_name": "สามร้อยยอด"
+      }
+    ]
+  },
+  {
+    "pla_code": 80,
+    "pla_name": "นครศรีธรรมราช",
+    "dis": [
+      {
+        "pla_code": 8001,
+        "pla_name": "เมืองนครศรีธรรมราช"
+      },
+      {
+        "pla_code": 8002,
+        "pla_name": "พรหมคีรี"
+      },
+      {
+        "pla_code": 8003,
+        "pla_name": "ลานสกา"
+      },
+      {
+        "pla_code": 8004,
+        "pla_name": "ฉวาง"
+      },
+      {
+        "pla_code": 8005,
+        "pla_name": "พิปูน"
+      },
+      {
+        "pla_code": 8006,
+        "pla_name": "เชียรใหญ่"
+      },
+      {
+        "pla_code": 8007,
+        "pla_name": "ชะอวด"
+      },
+      {
+        "pla_code": 8008,
+        "pla_name": "ท่าศาลา"
+      },
+      {
+        "pla_code": 8009,
+        "pla_name": "ทุ่งสง"
+      },
+      {
+        "pla_code": 8010,
+        "pla_name": "นาบอน"
+      },
+      {
+        "pla_code": 8011,
+        "pla_name": "ทุ่งใหญ่"
+      },
+      {
+        "pla_code": 8012,
+        "pla_name": "ปากพนัง"
+      },
+      {
+        "pla_code": 8013,
+        "pla_name": "ร่อนพิบูลย์"
+      },
+      {
+        "pla_code": 8014,
+        "pla_name": "สิชล"
+      },
+      {
+        "pla_code": 8015,
+        "pla_name": "ขนอม"
+      },
+      {
+        "pla_code": 8016,
+        "pla_name": "หัวไทร"
+      },
+      {
+        "pla_code": 8017,
+        "pla_name": "บางขัน"
+      },
+      {
+        "pla_code": 8018,
+        "pla_name": "ถ้ำพรรณรา"
+      },
+      {
+        "pla_code": 8019,
+        "pla_name": "จุฬาภรณ์"
+      },
+      {
+        "pla_code": 8020,
+        "pla_name": "พระพรหม"
+      },
+      {
+        "pla_code": 8021,
+        "pla_name": "นบพิตำ"
+      },
+      {
+        "pla_code": 8022,
+        "pla_name": "ช้างกลาง"
+      },
+      {
+        "pla_code": 8023,
+        "pla_name": "เฉลิมพระเกียรติ"
+      }
+    ]
+  },
+  {
+    "pla_code": 81,
+    "pla_name": "กระบี่",
+    "dis": [
+      {
+        "pla_code": 8101,
+        "pla_name": "เมืองกระบี่"
+      },
+      {
+        "pla_code": 8102,
+        "pla_name": "เขาพนม"
+      },
+      {
+        "pla_code": 8103,
+        "pla_name": "เกาะลันตา"
+      },
+      {
+        "pla_code": 8104,
+        "pla_name": "คลองท่อม"
+      },
+      {
+        "pla_code": 8105,
+        "pla_name": "อ่าวลึก"
+      },
+      {
+        "pla_code": 8106,
+        "pla_name": "ปลายพระยา"
+      },
+      {
+        "pla_code": 8107,
+        "pla_name": "ลำทับ"
+      },
+      {
+        "pla_code": 8108,
+        "pla_name": "เหนือคลอง"
+      }
+    ]
+  },
+  {
+    "pla_code": 82,
+    "pla_name": "พังงา",
+    "dis": [
+      {
+        "pla_code": 8201,
+        "pla_name": "เมืองพังงา"
+      },
+      {
+        "pla_code": 8202,
+        "pla_name": "เกาะยาว"
+      },
+      {
+        "pla_code": 8203,
+        "pla_name": "กะปง"
+      },
+      {
+        "pla_code": 8204,
+        "pla_name": "ตะกั่วทุ่ง"
+      },
+      {
+        "pla_code": 8205,
+        "pla_name": "ตะกั่วป่า"
+      },
+      {
+        "pla_code": 8206,
+        "pla_name": "คุระบุรี"
+      },
+      {
+        "pla_code": 8207,
+        "pla_name": "ทับปุด"
+      },
+      {
+        "pla_code": 8208,
+        "pla_name": "ท้ายเหมือง"
+      }
+    ]
+  },
+  {
+    "pla_code": 83,
+    "pla_name": "ภูเก็ต",
+    "dis": [
+      {
+        "pla_code": 8301,
+        "pla_name": "เมืองภูเก็ต"
+      },
+      {
+        "pla_code": 8302,
+        "pla_name": "กะทู้"
+      },
+      {
+        "pla_code": 8303,
+        "pla_name": "ถลาง"
+      }
+    ]
+  },
+  {
+    "pla_code": 84,
+    "pla_name": "สุราษฎร์ธานี",
+    "dis": [
+      {
+        "pla_code": 8401,
+        "pla_name": "เมืองสุราษฎร์ธานี"
+      },
+      {
+        "pla_code": 8402,
+        "pla_name": "กาญจนดิษฐ์"
+      },
+      {
+        "pla_code": 8403,
+        "pla_name": "ดอนสัก"
+      },
+      {
+        "pla_code": 8404,
+        "pla_name": "เกาะสมุย"
+      },
+      {
+        "pla_code": 8405,
+        "pla_name": "เกาะพะงัน"
+      },
+      {
+        "pla_code": 8406,
+        "pla_name": "ไชยา"
+      },
+      {
+        "pla_code": 8407,
+        "pla_name": "ท่าชนะ"
+      },
+      {
+        "pla_code": 8408,
+        "pla_name": "คีรีรัฐนิคม"
+      },
+      {
+        "pla_code": 8409,
+        "pla_name": "บ้านตาขุน"
+      },
+      {
+        "pla_code": 8410,
+        "pla_name": "พนม"
+      },
+      {
+        "pla_code": 8411,
+        "pla_name": "ท่าฉาง"
+      },
+      {
+        "pla_code": 8412,
+        "pla_name": "บ้านนาสาร"
+      },
+      {
+        "pla_code": 8413,
+        "pla_name": "บ้านนาเดิม"
+      },
+      {
+        "pla_code": 8414,
+        "pla_name": "เคียนซา"
+      },
+      {
+        "pla_code": 8415,
+        "pla_name": "เวียงสระ"
+      },
+      {
+        "pla_code": 8416,
+        "pla_name": "พระแสง"
+      },
+      {
+        "pla_code": 8417,
+        "pla_name": "พุนพิน"
+      },
+      {
+        "pla_code": 8418,
+        "pla_name": "ชัยบุรี"
+      },
+      {
+        "pla_code": 8419,
+        "pla_name": "วิภาวดี"
+      }
+    ]
+  },
+  {
+    "pla_code": 85,
+    "pla_name": "ระนอง",
+    "dis": [
+      {
+        "pla_code": 8501,
+        "pla_name": "เมืองระนอง"
+      },
+      {
+        "pla_code": 8502,
+        "pla_name": "ละอุ่น"
+      },
+      {
+        "pla_code": 8503,
+        "pla_name": "กะเปอร์"
+      },
+      {
+        "pla_code": 8504,
+        "pla_name": "กระบุรี"
+      },
+      {
+        "pla_code": 8505,
+        "pla_name": "สุขสำราญ"
+      }
+    ]
+  },
+  {
+    "pla_code": 86,
+    "pla_name": "ชุมพร",
+    "dis": [
+      {
+        "pla_code": 8601,
+        "pla_name": "เมืองชุมพร"
+      },
+      {
+        "pla_code": 8602,
+        "pla_name": "ท่าแซะ"
+      },
+      {
+        "pla_code": 8603,
+        "pla_name": "ปะทิว"
+      },
+      {
+        "pla_code": 8604,
+        "pla_name": "หลังสวน"
+      },
+      {
+        "pla_code": 8605,
+        "pla_name": "ละแม"
+      },
+      {
+        "pla_code": 8606,
+        "pla_name": "พะโต๊ะ"
+      },
+      {
+        "pla_code": 8607,
+        "pla_name": "สวี"
+      },
+      {
+        "pla_code": 8608,
+        "pla_name": "ทุ่งตะโก"
+      }
+    ]
+  },
+  {
+    "pla_code": 90,
+    "pla_name": "สงขลา",
+    "dis": [
+      {
+        "pla_code": 9001,
+        "pla_name": "เมืองสงขลา"
+      },
+      {
+        "pla_code": 9002,
+        "pla_name": "สทิงพระ"
+      },
+      {
+        "pla_code": 9003,
+        "pla_name": "จะนะ"
+      },
+      {
+        "pla_code": 9004,
+        "pla_name": "นาทวี"
+      },
+      {
+        "pla_code": 9005,
+        "pla_name": "เทพา"
+      },
+      {
+        "pla_code": 9006,
+        "pla_name": "สะบ้าย้อย"
+      },
+      {
+        "pla_code": 9007,
+        "pla_name": "ระโนด"
+      },
+      {
+        "pla_code": 9008,
+        "pla_name": "กระแสสินธุ์"
+      },
+      {
+        "pla_code": 9009,
+        "pla_name": "รัตภูมิ"
+      },
+      {
+        "pla_code": 9010,
+        "pla_name": "สะเดา"
+      },
+      {
+        "pla_code": 9011,
+        "pla_name": "หาดใหญ่"
+      },
+      {
+        "pla_code": 9012,
+        "pla_name": "นาหม่อม"
+      },
+      {
+        "pla_code": 9013,
+        "pla_name": "ควนเนียง"
+      },
+      {
+        "pla_code": 9014,
+        "pla_name": "บางกล่ำ"
+      },
+      {
+        "pla_code": 9015,
+        "pla_name": "สิงหนคร"
+      },
+      {
+        "pla_code": 9016,
+        "pla_name": "คลองหอยโข่ง"
+      }
+    ]
+  },
+  {
+    "pla_code": 91,
+    "pla_name": "สตูล",
+    "dis": [
+      {
+        "pla_code": 9101,
+        "pla_name": "เมืองสตูล"
+      },
+      {
+        "pla_code": 9102,
+        "pla_name": "ควนโดน"
+      },
+      {
+        "pla_code": 9103,
+        "pla_name": "ควนกาหลง"
+      },
+      {
+        "pla_code": 9104,
+        "pla_name": "ท่าแพ"
+      },
+      {
+        "pla_code": 9105,
+        "pla_name": "ละงู"
+      },
+      {
+        "pla_code": 9106,
+        "pla_name": "ทุ่งหว้า"
+      },
+      {
+        "pla_code": 9107,
+        "pla_name": "มะนัง"
+      }
+    ]
+  },
+  {
+    "pla_code": 92,
+    "pla_name": "ตรัง",
+    "dis": [
+      {
+        "pla_code": 9201,
+        "pla_name": "เมืองตรัง"
+      },
+      {
+        "pla_code": 9202,
+        "pla_name": "กันตัง"
+      },
+      {
+        "pla_code": 9203,
+        "pla_name": "ย่านตาขาว"
+      },
+      {
+        "pla_code": 9204,
+        "pla_name": "ปะเหลียน"
+      },
+      {
+        "pla_code": 9205,
+        "pla_name": "สิเกา"
+      },
+      {
+        "pla_code": 9206,
+        "pla_name": "ห้วยยอด"
+      },
+      {
+        "pla_code": 9207,
+        "pla_name": "วังวิเศษ"
+      },
+      {
+        "pla_code": 9208,
+        "pla_name": "นาโยง"
+      },
+      {
+        "pla_code": 9209,
+        "pla_name": "รัษฎา"
+      },
+      {
+        "pla_code": 9210,
+        "pla_name": "หาดสำราญ"
+      }
+    ]
+  },
+  {
+    "pla_code": 93,
+    "pla_name": "พัทลุง",
+    "dis": [
+      {
+        "pla_code": 9301,
+        "pla_name": "เมืองพัทลุง"
+      },
+      {
+        "pla_code": 9302,
+        "pla_name": "กงหรา"
+      },
+      {
+        "pla_code": 9303,
+        "pla_name": "เขาชัยสน"
+      },
+      {
+        "pla_code": 9304,
+        "pla_name": "ตะโหมด"
+      },
+      {
+        "pla_code": 9305,
+        "pla_name": "ควนขนุน"
+      },
+      {
+        "pla_code": 9306,
+        "pla_name": "ปากพะยูน"
+      },
+      {
+        "pla_code": 9307,
+        "pla_name": "ศรีบรรพต"
+      },
+      {
+        "pla_code": 9308,
+        "pla_name": "ป่าบอน"
+      },
+      {
+        "pla_code": 9309,
+        "pla_name": "บางแก้ว"
+      },
+      {
+        "pla_code": 9310,
+        "pla_name": "ป่าพยอม"
+      },
+      {
+        "pla_code": 9311,
+        "pla_name": "ศรีนครินทร์"
+      }
+    ]
+  },
+  {
+    "pla_code": 94,
+    "pla_name": "ปัตตานี",
+    "dis": [
+      {
+        "pla_code": 9401,
+        "pla_name": "เมืองปัตตานี"
+      },
+      {
+        "pla_code": 9402,
+        "pla_name": "โคกโพธิ์"
+      },
+      {
+        "pla_code": 9403,
+        "pla_name": "หนองจิก"
+      },
+      {
+        "pla_code": 9404,
+        "pla_name": "ปะนาเระ"
+      },
+      {
+        "pla_code": 9405,
+        "pla_name": "มายอ"
+      },
+      {
+        "pla_code": 9406,
+        "pla_name": "ทุ่งยางแดง"
+      },
+      {
+        "pla_code": 9407,
+        "pla_name": "สายบุรี"
+      },
+      {
+        "pla_code": 9408,
+        "pla_name": "ไม้แก่น"
+      },
+      {
+        "pla_code": 9409,
+        "pla_name": "ยะหริ่ง"
+      },
+      {
+        "pla_code": 9410,
+        "pla_name": "ยะรัง"
+      },
+      {
+        "pla_code": 9411,
+        "pla_name": "กะพ้อ"
+      },
+      {
+        "pla_code": 9412,
+        "pla_name": "แม่ลาน"
+      }
+    ]
+  },
+  {
+    "pla_code": 95,
+    "pla_name": "ยะลา",
+    "dis": [
+      {
+        "pla_code": 9501,
+        "pla_name": "เมืองยะลา"
+      },
+      {
+        "pla_code": 9502,
+        "pla_name": "เบตง"
+      },
+      {
+        "pla_code": 9503,
+        "pla_name": "บันนังสตา"
+      },
+      {
+        "pla_code": 9504,
+        "pla_name": "ธารโต"
+      },
+      {
+        "pla_code": 9505,
+        "pla_name": "ยะหา"
+      },
+      {
+        "pla_code": 9506,
+        "pla_name": "รามัน"
+      },
+      {
+        "pla_code": 9507,
+        "pla_name": "กาบัง"
+      },
+      {
+        "pla_code": 9508,
+        "pla_name": "กรงปีนัง"
+      }
+    ]
+  },
+  {
+    "pla_code": 96,
+    "pla_name": "นราธิวาส",
+    "dis": [
+      {
+        "pla_code": 9601,
+        "pla_name": "เมืองนราธิวาส"
+      },
+      {
+        "pla_code": 9602,
+        "pla_name": "ตากใบ"
+      },
+      {
+        "pla_code": 9603,
+        "pla_name": "บาเจาะ"
+      },
+      {
+        "pla_code": 9604,
+        "pla_name": "ยี่งอ"
+      },
+      {
+        "pla_code": 9605,
+        "pla_name": "ระแงะ"
+      },
+      {
+        "pla_code": 9606,
+        "pla_name": "รือเสาะ"
+      },
+      {
+        "pla_code": 9607,
+        "pla_name": "ศรีสาคร"
+      },
+      {
+        "pla_code": 9608,
+        "pla_name": "แว้ง"
+      },
+      {
+        "pla_code": 9609,
+        "pla_name": "สุคิริน"
+      },
+      {
+        "pla_code": 9610,
+        "pla_name": "สุไหงโก-ลก"
+      },
+      {
+        "pla_code": 9611,
+        "pla_name": "สุไหงปาดี"
+      },
+      {
+        "pla_code": 9612,
+        "pla_name": "จะแนะ"
+      },
+      {
+        "pla_code": 9613,
+        "pla_name": "เจาะไอร้อง"
+      }
+    ]
+  }
+]

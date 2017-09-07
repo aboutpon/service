@@ -1,0 +1,311 @@
+
+[
+  {
+    "pla_code": 10,
+    "pla_name": "กรุงเทพมหานคร"
+  },
+  {
+    "pla_code": 11,
+    "pla_name": "สมุทรปราการ"
+  },
+  {
+    "pla_code": 12,
+    "pla_name": "นนทบุรี"
+  },
+  {
+    "pla_code": 13,
+    "pla_name": "ปทุมธานี"
+  },
+  {
+    "pla_code": 14,
+    "pla_name": "พระนครศรีอยุธยา"
+  },
+  {
+    "pla_code": 15,
+    "pla_name": "อ่างทอง"
+  },
+  {
+    "pla_code": 16,
+    "pla_name": "ลพบุรี"
+  },
+  {
+    "pla_code": 17,
+    "pla_name": "สิงห์บุรี"
+  },
+  {
+    "pla_code": 18,
+    "pla_name": "ชัยนาท"
+  },
+  {
+    "pla_code": 19,
+    "pla_name": "สระบุรี"
+  },
+  {
+    "pla_code": 20,
+    "pla_name": "ชลบุรี"
+  },
+  {
+    "pla_code": 21,
+    "pla_name": "ระยอง"
+  },
+  {
+    "pla_code": 22,
+    "pla_name": "จันทบุรี"
+  },
+  {
+    "pla_code": 23,
+    "pla_name": "ตราด"
+  },
+  {
+    "pla_code": 24,
+    "pla_name": "ฉะเชิงเทรา"
+  },
+  {
+    "pla_code": 25,
+    "pla_name": "ปราจีนบุรี"
+  },
+  {
+    "pla_code": 26,
+    "pla_name": "นครนายก"
+  },
+  {
+    "pla_code": 27,
+    "pla_name": "สระแก้ว"
+  },
+  {
+    "pla_code": 30,
+    "pla_name": "นครราชสีมา"
+  },
+  {
+    "pla_code": 31,
+    "pla_name": "บุรีรัมย์"
+  },
+  {
+    "pla_code": 32,
+    "pla_name": "สุรินทร์"
+  },
+  {
+    "pla_code": 33,
+    "pla_name": "ศรีสะเกษ"
+  },
+  {
+    "pla_code": 34,
+    "pla_name": "อุบลราชธานี"
+  },
+  {
+    "pla_code": 35,
+    "pla_name": "ยโสธร"
+  },
+  {
+    "pla_code": 36,
+    "pla_name": "ชัยภูมิ"
+  },
+  {
+    "pla_code": 37,
+    "pla_name": "อำนาจเจริญ"
+  },
+  {
+    "pla_code": 38,
+    "pla_name": "บึงกาฬ"
+  },
+  {
+    "pla_code": 39,
+    "pla_name": "หนองบัวลำภู"
+  },
+  {
+    "pla_code": 40,
+    "pla_name": "ขอนแก่น"
+  },
+  {
+    "pla_code": 41,
+    "pla_name": "อุดรธานี"
+  },
+  {
+    "pla_code": 42,
+    "pla_name": "เลย"
+  },
+  {
+    "pla_code": 43,
+    "pla_name": "หนองคาย"
+  },
+  {
+    "pla_code": 44,
+    "pla_name": "มหาสารคาม"
+  },
+  {
+    "pla_code": 45,
+    "pla_name": "ร้อยเอ็ด"
+  },
+  {
+    "pla_code": 46,
+    "pla_name": "กาฬสินธุ์"
+  },
+  {
+    "pla_code": 47,
+    "pla_name": "สกลนคร"
+  },
+  {
+    "pla_code": 48,
+    "pla_name": "นครพนม"
+  },
+  {
+    "pla_code": 49,
+    "pla_name": "มุกดาหาร"
+  },
+  {
+    "pla_code": 50,
+    "pla_name": "เชียงใหม่"
+  },
+  {
+    "pla_code": 51,
+    "pla_name": "ลำพูน"
+  },
+  {
+    "pla_code": 52,
+    "pla_name": "ลำปาง"
+  },
+  {
+    "pla_code": 53,
+    "pla_name": "อุตรดิตถ์"
+  },
+  {
+    "pla_code": 54,
+    "pla_name": "แพร่"
+  },
+  {
+    "pla_code": 55,
+    "pla_name": "น่าน"
+  },
+  {
+    "pla_code": 56,
+    "pla_name": "พะเยา"
+  },
+  {
+    "pla_code": 57,
+    "pla_name": "เชียงราย"
+  },
+  {
+    "pla_code": 58,
+    "pla_name": "แม่ฮ่องสอน"
+  },
+  {
+    "pla_code": 60,
+    "pla_name": "นครสวรรค์"
+  },
+  {
+    "pla_code": 61,
+    "pla_name": "อุทัยธานี"
+  },
+  {
+    "pla_code": 62,
+    "pla_name": "กำแพงเพชร"
+  },
+  {
+    "pla_code": 63,
+    "pla_name": "ตาก"
+  },
+  {
+    "pla_code": 64,
+    "pla_name": "สุโขทัย"
+  },
+  {
+    "pla_code": 65,
+    "pla_name": "พิษณุโลก"
+  },
+  {
+    "pla_code": 66,
+    "pla_name": "พิจิตร"
+  },
+  {
+    "pla_code": 67,
+    "pla_name": "เพชรบูรณ์"
+  },
+  {
+    "pla_code": 70,
+    "pla_name": "ราชบุรี"
+  },
+  {
+    "pla_code": 71,
+    "pla_name": "กาญจนบุรี"
+  },
+  {
+    "pla_code": 72,
+    "pla_name": "สุพรรณบุรี"
+  },
+  {
+    "pla_code": 73,
+    "pla_name": "นครปฐม"
+  },
+  {
+    "pla_code": 74,
+    "pla_name": "สมุทรสาคร"
+  },
+  {
+    "pla_code": 75,
+    "pla_name": "สมุทรสงคราม"
+  },
+  {
+    "pla_code": 76,
+    "pla_name": "เพชรบุรี"
+  },
+  {
+    "pla_code": 77,
+    "pla_name": "ประจวบคีรีขันธ์"
+  },
+  {
+    "pla_code": 80,
+    "pla_name": "นครศรีธรรมราช"
+  },
+  {
+    "pla_code": 81,
+    "pla_name": "กระบี่"
+  },
+  {
+    "pla_code": 82,
+    "pla_name": "พังงา"
+  },
+  {
+    "pla_code": 83,
+    "pla_name": "ภูเก็ต"
+  },
+  {
+    "pla_code": 84,
+    "pla_name": "สุราษฎร์ธานี"
+  },
+  {
+    "pla_code": 85,
+    "pla_name": "ระนอง"
+  },
+  {
+    "pla_code": 86,
+    "pla_name": "ชุมพร"
+  },
+  {
+    "pla_code": 90,
+    "pla_name": "สงขลา"
+  },
+  {
+    "pla_code": 91,
+    "pla_name": "สตูล"
+  },
+  {
+    "pla_code": 92,
+    "pla_name": "ตรัง"
+  },
+  {
+    "pla_code": 93,
+    "pla_name": "พัทลุง"
+  },
+  {
+    "pla_code": 94,
+    "pla_name": "ปัตตานี"
+  },
+  {
+    "pla_code": 95,
+    "pla_name": "ยะลา"
+  },
+  {
+    "pla_code": 96,
+    "pla_name": "นราธิวาส"
+  }
+]

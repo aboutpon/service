@@ -1,0 +1,34 @@
+{
+  "name": "update",
+  "version": "1.0.0",
+  "description": "system update raspberrypi",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=production node index.js",
+    "start": "NODE_ENV=production pm2 start index.js"
+  },
+  "keywords": [
+    "sky"
+  ],
+  "author": "subaru",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "child_process": "^1.0.2",
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "express-fileupload": "0.0.5",
+    "express-session": "^1.14.1",
+    "filesize": "^3.3.0",
+    "html": "^1.0.0",
+    "jquery-file-upload-middleware": "^0.1.8",
+    "jsonfile": "^2.4.0",
+    "middleware": "^1.0.0",
+    "mongoose": "^4.6.8",
+    "morgan": "^1.7.0",
+    "multer": "^1.2.0",
+    "mysql": "^2.11.1",
+    "request": "^2.75.0",
+    "socket.io": "^1.5.1"
+  }
+}
